@@ -1,0 +1,12 @@
+{
+	"Name": "Pixel Platformer",
+	"UnitWidth": 18,
+	"UnitHeight": 18,
+	"Characters": [
+		"./Characters/green.dcc",
+		"./Characters/blue.dcc"
+	],
+	"Maps": [
+		"./Levels/TestMap.dcl"
+	]
+}

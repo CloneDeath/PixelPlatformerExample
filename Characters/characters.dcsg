@@ -1,0 +1,15 @@
+{
+	"File": "characters.png",
+	"Width": 24,
+	"Height": 24,
+	"XSeparation": 2,
+	"YSeparation": 2,
+	"XOffset": 0,
+	"YOffset": 0,
+	"Sprites": [
+		{ "X": 0, "Y": 0, "Name": "green-stand" },
+		{ "X": 1, "Y": 0, "Name": "green-walk" },
+		{ "X": 2, "Y": 0, "Name": "blue-stand" },
+		{ "X": 3, "Y": 0, "Name": "blue-walk" }
+	]
+}

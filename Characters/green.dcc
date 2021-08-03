@@ -1,0 +1,23 @@
+{
+	"Name": "Green Guy",
+	"WalkSpeed": 3,
+	"JumpHeight": 3,
+	"Animations": [
+		{
+			"Name": "Idle",
+			"Frames": [
+				{ "Duration": 1.0, "Sprite": "green-stand", "Source": "./characters.dcsg" }
+			]
+		},
+		{
+			"Name": "Walk",
+			"Frames": [
+				{ "Duration": 0.5, "Sprite": "green-walk",  "Source": "./characters.dcsg" },
+				{ "Duration": 0.5, "Sprite": "green-stand", "Source": "./characters.dcsg" }
+			]
+		}
+	],
+	"WalkAnimation": "Walk",
+	"IdleAnimation": "Idle",
+	"JumpAnimation": "Idle"
+}

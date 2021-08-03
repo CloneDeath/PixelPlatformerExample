@@ -1,0 +1,23 @@
+{
+	"Name": "Blue Buddy",
+	"WalkSpeed": 1.5,
+	"JumpHeight": 6,
+	"Animations": [
+		{
+			"Name": "Idle",
+			"Frames": [
+				{ "Duration": 1.0, "Sprite": "blue-stand", "Source": "./characters.dcsg" }
+			]
+		},
+		{
+			"Name": "Walk",
+			"Frames": [
+				{ "Duration": 0.5, "Sprite": "blue-walk", "Source": "./characters.dcsg" },
+				{ "Duration": 0.5, "Sprite": "blue-stand", "Source": "./characters.dcsg" }
+			]
+		}
+	],
+	"WalkAnimation": "Walk",
+	"IdleAnimation": "Idle",
+	"JumpAnimation": "Idle"
+}

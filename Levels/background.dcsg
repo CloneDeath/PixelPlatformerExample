@@ -1,0 +1,12 @@
+{
+	"File": "background.png",
+	"Width": 24,
+	"Height": 24,
+	"XSeparation": 2,
+	"YSeparation": 2,
+	"XOffset": 0,
+	"YOffset": 0,
+	"Sprites": [
+		{ "X": 0, "Y": 0, "Name": "Sky" }
+	]
+}

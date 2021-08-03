@@ -1,0 +1,14 @@
+{
+	"File": "tiles.png",
+	"Width": 18,
+	"Height": 18,
+	"XSeparation": 2,
+	"YSeparation": 2,
+	"XOffset": 0,
+	"YOffset": 0,
+	"Sprites": [
+		{ "X": 2, "Y": 6, "Name": "dirt" },
+		{ "X": 2, "Y": 1, "Name": "grass" },
+		{ "X": 4, "Y": 6, "Name": "plant" }
+	]
+}
