@@ -1,5 +1,6 @@
 {
 	"Name": "Pixel Platformer",
+	"Version": "0.1-alpha.1",
 	"UnitWidth": 18,
 	"UnitHeight": 18,
 	"Characters": [
