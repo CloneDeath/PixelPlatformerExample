@@ -7,7 +7,7 @@
 		"./Characters/green.dcc",
 		"./Characters/blue.dcc"
 	],
-	"Maps": [
+	"Levels": [
 		"./Levels/TestMap.dcl"
 	]
 }
