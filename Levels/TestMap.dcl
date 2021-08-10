@@ -1,5 +1,7 @@
 {
 	"Name": "Test Map",
+	"TileWidth": 18,
+	"TileHeight": 18,
 	"AreaWidth": 26,
 	"AreaHeight": 15,
 	"Tiles": [
