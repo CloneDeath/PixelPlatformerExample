@@ -7,24 +7,18 @@
 	"Tiles": [
 		{
 			"Name": "grass",
-			"Solid": true,
-			"Frames": [
-				{ "Duration": 1.0, "Sprite": "grass", "Source": "./tiles.dcsg" }
-			]
+			"Source": "./tiles.dcsg",
+			"Sprite": "grass"
 		},
 		{
 			"Name": "dirt",
-			"Solid": true,
-			"Frames": [
-				{ "Duration": 1.0, "Sprite": "dirt", "Source": "./tiles.dcsg" }
-			]
+			"Source": "./tiles.dcsg",
+			"Sprite": "dirt"
 		},
 		{
 			"Name": "plant",
-			"Solid": false,
-			"Frames": [
-				{ "Duration": 1.0, "Sprite": "plant", "Source": "./tiles.dcsg" }
-			]
+			"Source": "./tiles.dcsg",
+			"Sprite": "plant"
 		}
 	],
 	"Areas": [
