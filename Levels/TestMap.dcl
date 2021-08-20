@@ -8,12 +8,24 @@
 		{
 			"Name": "grass",
 			"Source": "./tiles.dcsg",
-			"Sprite": "grass"
+			"Sprite": "grass",
+			"Collision": [
+				{"X": 0, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1, "Y": 1},
+				{"X": 0, "Y": 1}
+			]
 		},
 		{
 			"Name": "dirt",
 			"Source": "./tiles.dcsg",
-			"Sprite": "dirt"
+			"Sprite": "dirt",
+			"Collision": [
+				{"X": 0, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1, "Y": 1},
+				{"X": 0, "Y": 1}
+			]
 		},
 		{
 			"Name": "plant",
@@ -29,6 +41,8 @@
 			"Width": 1,
 			"Height": 1,
 			"TileMap": [
+				{ "X": 0, "Y": 0, "Tile": "dirt" },
+
 				{ "X": 0, "Y": 14, "Tile": "dirt" },
 				{ "X": 1, "Y": 14, "Tile": "dirt" },
 				{ "X": 2, "Y": 14, "Tile": "dirt" },
