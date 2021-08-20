@@ -2,6 +2,7 @@
 	"Name": "Blue Buddy",
 	"WalkSpeed": 1.5,
 	"JumpHeight": 6,
+	"Gravity": 20,
 	"Animations": [
 		{
 			"Name": "Idle",

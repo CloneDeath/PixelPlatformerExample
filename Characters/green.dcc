@@ -2,6 +2,7 @@
 	"Name": "Green Guy",
 	"WalkSpeed": 3,
 	"JumpHeight": 3,
+	"Gravity": 10,
 	"Animations": [
 		{
 			"Name": "Idle",
