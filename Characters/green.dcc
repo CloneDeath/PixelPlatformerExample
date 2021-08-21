@@ -3,6 +3,8 @@
 	"WalkSpeed": 3,
 	"JumpHeight": 3,
 	"Gravity": 10,
+	"Height": 24,
+	"Width": 24,
 	"Animations": [
 		{
 			"Name": "Idle",
