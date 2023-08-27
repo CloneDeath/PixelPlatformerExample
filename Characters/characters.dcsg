@@ -30,6 +30,18 @@
       "Y": 0,
       "Name": "blue-walk",
       "FlipHorizontal": true
+    },
+    {
+      "X": 4,
+      "Y": 0,
+      "Name": "pink-stand",
+      "FlipHorizontal": true
+    },
+    {
+      "X": 5,
+      "Y": 0,
+      "Name": "pink-walk",
+      "FlipHorizontal": true
     }
   ]
 }

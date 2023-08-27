@@ -1,0 +1,33 @@
+{
+  "Name": "Pink Person",
+  "Enabled": true,
+  "WalkSpeed": 6.0,
+  "JumpHeight": 2.0,
+  "Gravity": 10.0,
+  "Height": 24.0,
+  "Width": 24.0,
+  "Animations": [
+    {
+      "Name": "idle",
+      "Frames": [
+        {
+          "Duration": 0.25,
+          "Sprite": "pink-walk",
+          "Source": "characters.dcsg"
+        },
+        {
+          "Duration": 0.25,
+          "Sprite": "pink-stand",
+          "Source": "characters.dcsg"
+        }
+      ]
+    },
+    {
+      "Name": "walk",
+      "Frames": []
+    }
+  ],
+  "WalkAnimation": "walk",
+  "IdleAnimation": "idle",
+  "JumpAnimation": "idle"
+}
