@@ -4,6 +4,11 @@
 	"TileHeight": 18,
 	"AreaWidth": 26,
 	"AreaHeight": 15,
+	"StartingPosition": {
+		"Area": "Starting Area",
+		"X": 2,
+		"Y": 12
+	},
 	"Tiles": [
 		{
 			"Name": "grass",
