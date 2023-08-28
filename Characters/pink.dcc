@@ -8,7 +8,7 @@
   "Width": 24.0,
   "Animations": [
     {
-      "Name": "idle",
+      "Name": "walk",
       "Frames": [
         {
           "Duration": 0.25,
@@ -23,8 +23,14 @@
       ]
     },
     {
-      "Name": "walk",
-      "Frames": []
+      "Name": "idle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Sprite": "pink-stand",
+          "Source": "characters.dcsg"
+        }
+      ]
     }
   ],
   "WalkAnimation": "walk",
