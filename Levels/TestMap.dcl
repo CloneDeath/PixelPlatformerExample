@@ -209,7 +209,7 @@
         {
           "X": 0,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
         },
         {
           "X": 1,
@@ -244,17 +244,17 @@
         {
           "X": 7,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
         },
         {
           "X": 8,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
         },
         {
           "X": 9,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
         },
         {
           "X": 10,
@@ -334,12 +334,237 @@
         {
           "X": 25,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
         },
         {
           "X": 17,
           "Y": 12,
           "Tile": "plant"
+        },
+        {
+          "X": 25,
+          "Y": 12,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 12,
+          "Y": 12,
+          "Tile": "plant"
+        },
+        {
+          "X": 9,
+          "Y": 12,
+          "Tile": "grass"
+        },
+        {
+          "X": 8,
+          "Y": 12,
+          "Tile": "grass"
+        },
+        {
+          "X": 7,
+          "Y": 12,
+          "Tile": "grass"
+        },
+        {
+          "X": 0,
+          "Y": 12,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 5,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 1,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 4,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Tile": "dirt"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 3,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 4,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 5,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 6,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 7,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 8,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 9,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 10,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 11,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 12,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 13,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 14,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 15,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 16,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 17,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 18,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 21,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 22,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 19,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 20,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 23,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 24,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 6,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 2,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 3,
+          "Tile": "dirt"
         }
       ]
     },
@@ -483,7 +708,7 @@
         {
           "X": 0,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
         },
         {
           "X": 1,
@@ -608,7 +833,267 @@
         {
           "X": 25,
           "Y": 13,
-          "Tile": "grass"
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 12,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 12,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Tile": "dirt"
+        },
+        {
+          "X": 0,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 1,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 2,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 3,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 4,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 10,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 9,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 8,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 7,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 6,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 5,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 11,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 12,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 13,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 14,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 15,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 16,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 19,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 18,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 17,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 21,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 20,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 1,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 2,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 5,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 6,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 4,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 3,
+          "Tile": "dirt"
+        },
+        {
+          "X": 25,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 24,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 23,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 22,
+          "Y": 0,
+          "Tile": "dirt"
+        },
+        {
+          "X": 5,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 6,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 7,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 9,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 8,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 21,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 20,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 19,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 18,
+          "Y": 7,
+          "Tile": "dirt"
+        },
+        {
+          "X": 17,
+          "Y": 7,
+          "Tile": "dirt"
         }
       ]
     }
