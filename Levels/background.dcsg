@@ -1,12 +1,29 @@
 {
-	"File": "background.png",
-	"Width": 24,
-	"Height": 24,
-	"XSeparation": 2,
-	"YSeparation": 2,
-	"XOffset": 0,
-	"YOffset": 0,
-	"Sprites": [
-		{ "X": 0, "Y": 0, "Name": "Sky" }
-	]
+  "File": "background.png",
+  "Width": 24,
+  "Height": 24,
+  "XSeparation": 2,
+  "YSeparation": 2,
+  "XOffset": 0,
+  "YOffset": 0,
+  "Sprites": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Name": "Sky",
+      "FlipHorizontal": false
+    },
+    {
+      "X": 1,
+      "Y": 0,
+      "Name": "Cloud Border",
+      "FlipHorizontal": false
+    },
+    {
+      "X": 0,
+      "Y": 1,
+      "Name": "Cloud",
+      "FlipHorizontal": false
+    }
+  ]
 }
