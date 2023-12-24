@@ -8,36 +8,42 @@
   "YOffset": 0,
   "Sprites": [
     {
+      "Id": "b3ea01cd-26ed-45ee-9416-11038311922f",
       "X": 0,
       "Y": 0,
       "Name": "green-stand",
       "FlipHorizontal": true
     },
     {
+      "Id": "1e56132a-47f7-4b70-80e4-66bfb2c1eaa2",
       "X": 1,
       "Y": 0,
       "Name": "green-walk",
       "FlipHorizontal": true
     },
     {
+      "Id": "314c6650-8794-4706-af3d-474a46084316",
       "X": 2,
       "Y": 0,
       "Name": "blue-stand",
       "FlipHorizontal": true
     },
     {
+      "Id": "ee7599b9-af6f-4d8a-ae8c-8c036fdfc1be",
       "X": 3,
       "Y": 0,
       "Name": "blue-walk",
       "FlipHorizontal": true
     },
     {
+      "Id": "0479eb51-d456-44dc-91b2-aa6f3c6e41a2",
       "X": 4,
       "Y": 0,
       "Name": "pink-stand",
       "FlipHorizontal": true
     },
     {
+      "Id": "1dc2ce50-9775-4f44-8e85-1175c6c965a0",
       "X": 5,
       "Y": 0,
       "Name": "pink-walk",

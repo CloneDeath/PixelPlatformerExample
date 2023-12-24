@@ -1,39 +1,91 @@
 {
   "Name": "Blue Buddy",
   "Enabled": true,
-  "WalkSpeed": 1.5,
+  "WalkSpeed": 3.0,
   "JumpHeight": 6.0,
   "Gravity": 20.0,
   "Height": 24.0,
   "Width": 24.0,
+  "DefaultWeapon": "",
   "Animations": [
     {
+      "Id": "20b1795b-f589-4d89-b34b-057ec33f2c68",
       "Name": "Idle",
       "Frames": [
         {
           "Duration": 1.0,
-          "Sprite": "blue-stand",
-          "Source": "./characters.dcsg"
+          "Source": "./characters.dcsg",
+          "SpriteId": "314c6650-8794-4706-af3d-474a46084316",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
         }
       ]
     },
     {
+      "Id": "e59a64f8-baa1-4d94-a509-b204b080e688",
       "Name": "Walk",
       "Frames": [
         {
           "Duration": 0.5,
-          "Sprite": "blue-walk",
-          "Source": "./characters.dcsg"
+          "Source": "./characters.dcsg",
+          "SpriteId": "ee7599b9-af6f-4d8a-ae8c-8c036fdfc1be",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
         },
         {
           "Duration": 0.5,
-          "Sprite": "blue-stand",
-          "Source": "./characters.dcsg"
+          "Source": "./characters.dcsg",
+          "SpriteId": "314c6650-8794-4706-af3d-474a46084316",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": [],
+          "Audio": null,
+          "HitBox": null,
+          "HurtBox": null
         }
       ]
     }
   ],
-  "WalkAnimation": "Walk",
-  "IdleAnimation": "Idle",
-  "JumpAnimation": "Idle"
+  "WalkAnimation": "e59a64f8-baa1-4d94-a509-b204b080e688",
+  "IdleAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "JumpAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
+  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000"
 }

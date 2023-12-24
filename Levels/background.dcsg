@@ -8,18 +8,21 @@
   "YOffset": 0,
   "Sprites": [
     {
+      "Id": "18d8f068-8ac5-46e8-9ae6-cf4df5183abe",
       "X": 0,
       "Y": 0,
       "Name": "Sky",
       "FlipHorizontal": false
     },
     {
+      "Id": "dcb6923c-549d-4dea-aea2-d4dc056dd222",
       "X": 1,
       "Y": 0,
       "Name": "Cloud Border",
       "FlipHorizontal": false
     },
     {
+      "Id": "f9c55e9c-451c-47d3-81e6-1682a73af040",
       "X": 0,
       "Y": 1,
       "Name": "Cloud",

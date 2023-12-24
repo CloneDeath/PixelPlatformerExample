@@ -1,14 +1,32 @@
 {
-	"File": "tiles.png",
-	"Width": 18,
-	"Height": 18,
-	"XSeparation": 2,
-	"YSeparation": 2,
-	"XOffset": 0,
-	"YOffset": 0,
-	"Sprites": [
-		{ "X": 2, "Y": 6, "Name": "dirt" },
-		{ "X": 2, "Y": 1, "Name": "grass" },
-		{ "X": 4, "Y": 6, "Name": "plant" }
-	]
+  "File": "tiles.png",
+  "Width": 18,
+  "Height": 18,
+  "XSeparation": 2,
+  "YSeparation": 2,
+  "XOffset": 0,
+  "YOffset": 0,
+  "Sprites": [
+    {
+      "Id": "6c9a8b5f-b87c-4424-96e8-d675573674a5",
+      "X": 2,
+      "Y": 6,
+      "Name": "dirt",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "6bdd5680-7e6f-4b3f-8e95-ea028af99650",
+      "X": 2,
+      "Y": 1,
+      "Name": "grass",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "d5104ec3-34a8-47ff-baa4-68dfc1bae21d",
+      "X": 4,
+      "Y": 6,
+      "Name": "plant",
+      "FlipHorizontal": false
+    }
+  ]
 }
