@@ -1,0 +1,160 @@
+{
+  "Name": "Player Select",
+  "Id": "6767d291-3d2b-4297-9548-8e8ff3996692",
+  "Size": {
+    "Width": 468,
+    "Height": 270
+  },
+  "BackgroundColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0,
+    "Alpha": 255
+  },
+  "Elements": [
+    {
+      "HorizontalAlignment": "Left",
+      "VerticalAlignment": "Top",
+      "Text": "Select Your Character",
+      "FontSize": 36,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Name": "Select Your Character",
+      "Id": "9e31b5d1-8be1-4904-8be7-3838f3ca8bdd",
+      "Type": "Label",
+      "Region": {
+        "X": 10,
+        "Y": 0,
+        "Width": 468,
+        "Height": 0
+      }
+    },
+    {
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Options": [
+        {
+          "Text": "Blue Buddy",
+          "Id": "ba4ca66d-ad57-4257-a679-a74268f8bbc4",
+          "OnSelect": [
+            {
+              "SetCharacter": "../../Characters/blue.dcc"
+            },
+            {
+              "SetLevel": "../../Levels/TestMap.dcl"
+            },
+            {
+              "Scene": {
+                "Set": "../Gameplay/Gameplay.dcs"
+              }
+            }
+          ]
+        },
+        {
+          "Text": "Green Guy",
+          "Id": "8233519c-31e1-44b1-9b61-125f7ae18259",
+          "OnSelect": [
+            {
+              "SetCharacter": "../../Characters/green.dcc"
+            },
+            {
+              "SetLevel": "../../Levels/TestMap.dcl"
+            },
+            {
+              "Scene": {
+                "Set": "../Gameplay/Gameplay.dcs"
+              }
+            }
+          ]
+        },
+        {
+          "Text": "Orange Observer",
+          "Id": "28e53d71-28de-4789-b7eb-2ae367beb567",
+          "OnSelect": [
+            {
+              "SetCharacter": "../../Characters/orange.dcc"
+            },
+            {
+              "SetLevel": "../../Levels/TestMap.dcl"
+            },
+            {
+              "Scene": {
+                "Set": "../Gameplay/Gameplay.dcs"
+              }
+            }
+          ]
+        },
+        {
+          "Text": "Pink Person",
+          "Id": "357081d2-cbff-4896-8dbe-a20aa695fe4d",
+          "OnSelect": [
+            {
+              "SetCharacter": "../../Characters/pink.dcc"
+            },
+            {
+              "SetLevel": "../../Levels/TestMap.dcl"
+            },
+            {
+              "Scene": {
+                "Set": "../Gameplay/Gameplay.dcs"
+              }
+            }
+          ]
+        },
+        {
+          "Text": "Yellow Youngster",
+          "Id": "e4b6089b-76fa-44c1-a1ec-7ddb55337081",
+          "OnSelect": [
+            {
+              "SetCharacter": "../../Characters/yellow.dcc"
+            },
+            {
+              "SetLevel": "../../Levels/TestMap.dcl"
+            },
+            {
+              "Scene": {
+                "Set": "../Gameplay/Gameplay.dcs"
+              }
+            }
+          ]
+        }
+      ],
+      "Name": "Characters",
+      "Id": "d609907a-11a7-42ab-8df0-78985eb08b74",
+      "Type": "OptionList",
+      "Region": {
+        "X": 50,
+        "Y": 60,
+        "Width": 0,
+        "Height": 0
+      }
+    }
+  ],
+  "Events": [
+    {
+      "Name": "Go Back",
+      "When": {
+        "Input": {
+          "State": "Pressed",
+          "Action": "Cancel"
+        }
+      },
+      "Then": [
+        {
+          "Scene": {
+            "Pop": 1
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "Name": "Yellow Youngster",
+  "Enabled": true,
+  "WalkSpeed": 3.0,
+  "JumpHeight": 6.0,
+  "Gravity": 10.0,
+  "Height": 16.0,
+  "Width": 16.0,
+  "DefaultWeapon": "",
+  "Animations": [
+    {
+      "Id": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+      "Name": "Idle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "characters.dcsg",
+          "SpriteId": "663d69d3-58b5-4ee6-aa19-26243d2b315c",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    },
+    {
+      "Id": "e88cd0c5-ab84-4378-8a0e-8a03801a1741",
+      "Name": "Walk",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "characters.dcsg",
+          "SpriteId": "a177b043-c674-4215-aeca-fb00599223bc",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "characters.dcsg",
+          "SpriteId": "663d69d3-58b5-4ee6-aa19-26243d2b315c",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "WalkAnimation": "e88cd0c5-ab84-4378-8a0e-8a03801a1741",
+  "IdleAnimation": "00000000-0000-0000-0000-000000000000",
+  "JumpAnimation": "00000000-0000-0000-0000-000000000000",
+  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
+  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000"
+}

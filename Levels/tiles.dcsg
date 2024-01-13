@@ -2,8 +2,8 @@
   "File": "tiles.png",
   "Width": 18,
   "Height": 18,
-  "XSeparation": 2,
-  "YSeparation": 2,
+  "XSeparation": 0,
+  "YSeparation": 0,
   "XOffset": 0,
   "YOffset": 0,
   "Sprites": [
@@ -26,6 +26,20 @@
       "X": 4,
       "Y": 6,
       "Name": "plant",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "0522cac4-6c80-4bba-8ec1-2b7cc2dd0ad7",
+      "X": 5,
+      "Y": 6,
+      "Name": "Tall Plant",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "cc130145-091f-4df6-8ca3-1cf7d3e6ce8c",
+      "X": 4,
+      "Y": 2,
+      "Name": "Heart",
       "FlipHorizontal": false
     }
   ]

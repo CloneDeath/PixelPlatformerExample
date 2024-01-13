@@ -1,0 +1,82 @@
+{
+  "Name": "Orange Observer",
+  "Enabled": true,
+  "WalkSpeed": 3.0,
+  "JumpHeight": 6.0,
+  "Gravity": 10.0,
+  "Height": 16.0,
+  "Width": 16.0,
+  "DefaultWeapon": "",
+  "Animations": [
+    {
+      "Id": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+      "Name": "Idle",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "characters.dcsg",
+          "SpriteId": "66df20e6-fd03-45d7-a687-42bb45cfac7f",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    },
+    {
+      "Id": "7d724410-0a42-40ca-9e41-7df16d827ebc",
+      "Name": "Walk",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "characters.dcsg",
+          "SpriteId": "f8144ea1-ad5a-429e-b0c4-21242600b2d2",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "characters.dcsg",
+          "SpriteId": "66df20e6-fd03-45d7-a687-42bb45cfac7f",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 1
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "WalkAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "IdleAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "JumpAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "CrouchAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "StairsUpAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "StairsDownAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "StandAttackAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "JumpAttackAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "StairsUpAttackAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a",
+  "StairsDownAttackAnimation": "8e8a15cd-9de4-4cc4-be87-794dda0aed8a"
+}

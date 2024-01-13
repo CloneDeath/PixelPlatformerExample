@@ -1,0 +1,42 @@
+{
+  "Name": "Gameplay",
+  "Id": "df3ab3ab-7580-47c4-b632-d106becec875",
+  "Size": {
+    "Width": 468,
+    "Height": 270
+  },
+  "BackgroundColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0,
+    "Alpha": 255
+  },
+  "Elements": [
+    {
+      "Source": "PlayerHP",
+      "SpriteFile": "../../Levels/tiles.dcsg",
+      "SpriteId": "cc130145-091f-4df6-8ca3-1cf7d3e6ce8c",
+      "Name": "Health Bar",
+      "Id": "6c5c53e5-90d7-45e1-96ab-68c068202729",
+      "Type": "HealthBar",
+      "Region": {
+        "X": 5,
+        "Y": 5,
+        "Width": 180,
+        "Height": 16
+      }
+    },
+    {
+      "Name": "Level View",
+      "Id": "fe7629da-7a74-4a92-960b-5c8636f56c7d",
+      "Type": "LevelView",
+      "Region": {
+        "X": 0,
+        "Y": 0,
+        "Width": 468,
+        "Height": 270
+      }
+    }
+  ],
+  "Events": []
+}

@@ -1,0 +1,89 @@
+{
+  "Name": "Main Menu",
+  "Id": "dad0b53c-e517-4eb7-8e91-0354c5aaa534",
+  "Size": {
+    "Width": 468,
+    "Height": 270
+  },
+  "BackgroundColor": {
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0,
+    "Alpha": 255
+  },
+  "Elements": [
+    {
+      "HorizontalAlignment": "Center",
+      "VerticalAlignment": "Top",
+      "Text": "Pixel Platformer",
+      "FontSize": 54,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Name": "Title",
+      "Id": "cd5bc1fb-6860-46e7-83ce-e03512e316c0",
+      "Type": "Label",
+      "Region": {
+        "X": 0,
+        "Y": 19,
+        "Width": 468,
+        "Height": 0
+      }
+    },
+    {
+      "FontSize": 16,
+      "Color": {
+        "Red": 255,
+        "Green": 255,
+        "Blue": 255
+      },
+      "TextTransform": "None",
+      "Options": [
+        {
+          "Text": "Start",
+          "Id": "8105cf9b-f061-4035-9c24-d22fe980e360",
+          "OnSelect": [
+            {
+              "Scene": {
+                "Push": "PlayerSelect.dcs"
+              }
+            }
+          ]
+        },
+        {
+          "Text": "Quit",
+          "Id": "b71e6372-eb06-426e-90e2-1cfcca0d7b8e",
+          "OnSelect": [
+            {
+              "Game": "Quit"
+            }
+          ]
+        }
+      ],
+      "Name": "Option List",
+      "Id": "5a85fb0d-bd2e-4be3-bc11-ad40b885e2ac",
+      "Type": "OptionList",
+      "Region": {
+        "X": 50,
+        "Y": 130,
+        "Width": 418,
+        "Height": 100
+      }
+    }
+  ],
+  "Events": [
+    {
+      "Name": "Event",
+      "When": {
+        "Input": {
+          "State": "Pressed",
+          "Action": "Up"
+        }
+      },
+      "Then": []
+    }
+  ]
+}

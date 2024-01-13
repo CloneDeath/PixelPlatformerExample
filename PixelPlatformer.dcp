@@ -1,11 +1,5 @@
 {
-	"Name": "Pixel Platformer",
-	"Version": "0.1-alpha.1",
-	"Characters": [
-		"./Characters/green.dcc",
-		"./Characters/blue.dcc"
-	],
-	"Levels": [
-		"./Levels/TestMap.dcl"
-	]
+  "Name": "Pixel Platformer",
+  "Version": "0.1-alpha.1",
+  "StartScene": "Menus/MainMenu/MainMenu.dcs"
 }

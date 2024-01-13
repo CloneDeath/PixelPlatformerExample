@@ -2,8 +2,8 @@
   "File": "characters.png",
   "Width": 24,
   "Height": 24,
-  "XSeparation": 2,
-  "YSeparation": 2,
+  "XSeparation": 0,
+  "YSeparation": 0,
   "XOffset": 0,
   "YOffset": 0,
   "Sprites": [
@@ -47,6 +47,34 @@
       "X": 5,
       "Y": 0,
       "Name": "pink-walk",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "663d69d3-58b5-4ee6-aa19-26243d2b315c",
+      "X": 6,
+      "Y": 0,
+      "Name": "yellow-stand",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "a177b043-c674-4215-aeca-fb00599223bc",
+      "X": 7,
+      "Y": 0,
+      "Name": "yellow-walk",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "66df20e6-fd03-45d7-a687-42bb45cfac7f",
+      "X": 0,
+      "Y": 1,
+      "Name": "orange-stand",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "f8144ea1-ad5a-429e-b0c4-21242600b2d2",
+      "X": 1,
+      "Y": 1,
+      "Name": "orange-walk",
       "FlipHorizontal": true
     }
   ]
