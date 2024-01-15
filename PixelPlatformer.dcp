@@ -1,5 +1,6 @@
 {
   "Name": "Pixel Platformer",
   "Version": "0.1-alpha.1",
-  "StartScene": "Menus/MainMenu/MainMenu.dcs"
+  "StartScene": "Menus/MainMenu/MainMenu.dcs",
+  "FileVersion": 1
 }

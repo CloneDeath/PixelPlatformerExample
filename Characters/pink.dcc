@@ -87,5 +87,6 @@
   "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
   "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
   "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000"
+  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000",
+  "FileVersion": 1
 }
