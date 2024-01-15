@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Name": "Green Guy",
   "Enabled": true,
   "WalkSpeed": 6.0,
@@ -26,10 +27,7 @@
               "Y": 0
             }
           },
-          "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "Slots": []
         }
       ]
     },
@@ -51,10 +49,7 @@
               "Y": 0
             }
           },
-          "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "Slots": []
         },
         {
           "Duration": 0.5,
@@ -70,10 +65,7 @@
               "Y": 0
             }
           },
-          "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "Slots": []
         }
       ]
     }

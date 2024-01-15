@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Name": "Orange Observer",
   "Enabled": true,
   "WalkSpeed": 3.0,
