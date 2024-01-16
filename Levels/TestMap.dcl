@@ -13,8 +13,6 @@
     {
       "Name": "grass",
       "Id": "e59a64f8-baa1-4d94-a509-b204b080e68c",
-      "Source": "./tiles.dcsg",
-      "SpriteId": "6bdd5680-7e6f-4b3f-8e95-ea028af99650",
       "Collision": [
         {
           "X": 0.0,
@@ -33,15 +31,54 @@
           "Y": 1.0
         }
       ],
-      "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Stairs": null,
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "f0f146fe-b831-4715-b5b1-e4c23822af65",
+      "Animations": [
+        {
+          "Id": "90d4eb99-92e4-47c2-84af-48318a3e5613",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "./tiles.dcsg",
+              "SpriteId": "6bdd5680-7e6f-4b3f-8e95-ea028af99650",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": [],
+              "Audio": null,
+              "HitBox": null,
+              "HurtBox": null
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "f0f146fe-b831-4715-b5b1-e4c23822af65",
+          "Name": "Default",
+          "Animation": "90d4eb99-92e4-47c2-84af-48318a3e5613",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ]
     },
     {
       "Name": "dirt",
       "Id": "e59a64f8-baa1-4d94-a509-b204b080e68d",
-      "Source": "./tiles.dcsg",
-      "SpriteId": "6c9a8b5f-b87c-4424-96e8-d675573674a5",
       "Collision": [
         {
           "X": 0.0,
@@ -60,29 +97,148 @@
           "Y": 1.0
         }
       ],
-      "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Stairs": null,
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "87664a38-a455-422d-9abf-bc530e0bd7bb",
+      "Animations": [
+        {
+          "Id": "e923df87-195d-4969-924c-b81e94eca746",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "./tiles.dcsg",
+              "SpriteId": "6c9a8b5f-b87c-4424-96e8-d675573674a5",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": [],
+              "Audio": null,
+              "HitBox": null,
+              "HurtBox": null
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "87664a38-a455-422d-9abf-bc530e0bd7bb",
+          "Name": "Default",
+          "Animation": "e923df87-195d-4969-924c-b81e94eca746",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ]
     },
     {
       "Name": "plant",
       "Id": "e59a64f8-baa1-4d94-a509-b204b080e68e",
-      "Source": "./tiles.dcsg",
-      "SpriteId": "d5104ec3-34a8-47ff-baa4-68dfc1bae21d",
       "Collision": [],
-      "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Stairs": null,
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "4783d378-5faa-4925-9152-8e8f39188569",
+      "Animations": [
+        {
+          "Id": "b7936b16-6d86-464c-b37d-b8e82afd9816",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "./tiles.dcsg",
+              "SpriteId": "d5104ec3-34a8-47ff-baa4-68dfc1bae21d",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": [],
+              "Audio": null,
+              "HitBox": null,
+              "HurtBox": null
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "4783d378-5faa-4925-9152-8e8f39188569",
+          "Name": "Default",
+          "Animation": "b7936b16-6d86-464c-b37d-b8e82afd9816",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ]
     },
     {
       "Name": "Sky",
       "Id": "e59a64f8-baa1-4d94-a509-b204b080e68f",
-      "Source": "background.dcsg",
-      "SpriteId": "18d8f068-8ac5-46e8-9ae6-cf4df5183abe",
       "Collision": [],
-      "Width": 1,
-      "Height": 1,
-      "Stairs": null
+      "Stairs": null,
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "d3168c7c-1b49-41b7-b47e-996183465895",
+      "Animations": [
+        {
+          "Id": "e4270d62-10fa-486f-b29c-050127cca4a2",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "background.dcsg",
+              "SpriteId": "18d8f068-8ac5-46e8-9ae6-cf4df5183abe",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": [],
+              "Audio": null,
+              "HitBox": null,
+              "HurtBox": null
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "d3168c7c-1b49-41b7-b47e-996183465895",
+          "Name": "Default",
+          "Animation": "e4270d62-10fa-486f-b29c-050127cca4a2",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ]
     }
   ],
   "Areas": [
@@ -1810,5 +1966,5 @@
       ]
     }
   ],
-  "FileVersion": 1
+  "FileVersion": 2
 }
