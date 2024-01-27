@@ -7,7 +7,24 @@
       "Id": "35716c08-71e3-4168-8c8d-8d13f8dfb2ff",
       "Name": "Start",
       "InitialState": "ba2684ab-b5a9-43d7-b7d1-9b39aeb2765a",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
