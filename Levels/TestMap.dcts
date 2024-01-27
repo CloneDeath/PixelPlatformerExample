@@ -1,0 +1,57 @@
+{
+  "Name": "Test Map Tiles",
+  "Id": "fb6095d4-cc72-47e9-9fac-466e5fee0a12",
+  "FileVersion": 1,
+  "Tiles": [
+    {
+      "Id": "35716c08-71e3-4168-8c8d-8d13f8dfb2ff",
+      "Name": "Start",
+      "InitialState": "ba2684ab-b5a9-43d7-b7d1-9b39aeb2765a",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "Animations": [
+        {
+          "Id": "e55a6d91-0acb-466f-a7b5-8886cfbc3fbf",
+          "Name": "default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "tiles.dcsg",
+              "SpriteId": "6c9a8b5f-b87c-4424-96e8-d675573674a5",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "ba2684ab-b5a9-43d7-b7d1-9b39aeb2765a",
+          "Name": "default",
+          "Animation": "e55a6d91-0acb-466f-a7b5-8886cfbc3fbf",
+          "Transitions": [],
+          "OnEnter": [
+            {
+              "Move": "Left"
+            }
+          ],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    }
+  ]
+}

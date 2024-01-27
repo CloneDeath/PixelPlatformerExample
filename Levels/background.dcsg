@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "File": "background.png",
   "Width": 24,
   "Height": 24,
@@ -27,7 +28,13 @@
       "Y": 1,
       "Name": "Cloud",
       "FlipHorizontal": false
+    },
+    {
+      "Id": "50a1cb57-31be-471d-bba5-c23f135e3d41",
+      "X": 4,
+      "Y": 0,
+      "Name": "Dirt",
+      "FlipHorizontal": false
     }
-  ],
-  "FileVersion": 1
+  ]
 }
