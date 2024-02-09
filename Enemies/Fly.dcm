@@ -1,0 +1,112 @@
+{
+  "Id": "1f3dd307-d484-4aa3-998a-97ff284db0be",
+  "Name": "Fly",
+  "Health": 1,
+  "Experience": 1,
+  "Attack": 1,
+  "PhysicalDefense": 0,
+  "MagicalDefense": 0,
+  "MoveSpeed": 3.0,
+  "JumpHeight": 3.0,
+  "Gravity": 100.0,
+  "DespawnOnDeath": true,
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "InitialState": "fdc98f6d-3b83-4ea9-b8f0-46d486a11b6d",
+  "FileVersion": 1,
+  "Animations": [
+    {
+      "Id": "606ecad4-e1fa-4a91-bc6b-86ec423106fa",
+      "Name": "Flying",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "EnemySpriteGrid.dcsg",
+          "SpriteId": "2325fad9-d20c-4cea-a251-ba5d4948b1ab",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "EnemySpriteGrid.dcsg",
+          "SpriteId": "f5fe0f81-d414-4ed2-8738-d6514506c4dd",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "EnemySpriteGrid.dcsg",
+          "SpriteId": "0b0aad68-50c9-480c-8108-2b65501ab581",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "EnemySpriteGrid.dcsg",
+          "SpriteId": "f5fe0f81-d414-4ed2-8738-d6514506c4dd",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "States": [
+    {
+      "Id": "fdc98f6d-3b83-4ea9-b8f0-46d486a11b6d",
+      "Name": "Default",
+      "Animation": "606ecad4-e1fa-4a91-bc6b-86ec423106fa",
+      "Transitions": [
+        {
+          "Id": "28de1ccf-8244-4a90-91f1-696dac45e619",
+          "Name": "",
+          "TargetState": "fdc98f6d-3b83-4ea9-b8f0-46d486a11b6d",
+          "When": {
+            "Self": "Killed"
+          }
+        }
+      ],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    }
+  ],
+  "Variables": []
+}

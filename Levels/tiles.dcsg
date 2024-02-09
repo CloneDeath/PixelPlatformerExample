@@ -1,5 +1,6 @@
 {
-  "File": "tiles.png",
+  "FileVersion": 1,
+  "File": "Tiles/tiles.png",
   "Width": 18,
   "Height": 18,
   "XSeparation": 0,
@@ -42,6 +43,5 @@
       "Name": "Heart",
       "FlipHorizontal": false
     }
-  ],
-  "FileVersion": 1
+  ]
 }

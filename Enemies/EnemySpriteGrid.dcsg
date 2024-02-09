@@ -1,0 +1,131 @@
+{
+  "FileVersion": 1,
+  "File": "../Characters/characters.png",
+  "Width": 24,
+  "Height": 24,
+  "XSeparation": 0,
+  "YSeparation": 0,
+  "XOffset": 0,
+  "YOffset": 0,
+  "Sprites": [
+    {
+      "Id": "e6c46c70-d4d5-407c-a7bb-446c135f45d3",
+      "X": 8,
+      "Y": 0,
+      "Name": "Mine",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "bada382a-bb6e-4412-af55-6d7711878f8b",
+      "X": 2,
+      "Y": 1,
+      "Name": "Block 1",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "3f0a4827-2ff2-46b2-b72a-fdded375b878",
+      "X": 3,
+      "Y": 1,
+      "Name": "Block 2",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "4a285e49-142b-4d0e-a3d2-2d5262d6205b",
+      "X": 4,
+      "Y": 1,
+      "Name": "Fish 1",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "cf09af6a-9aff-4c57-95ab-3b686454b203",
+      "X": 5,
+      "Y": 1,
+      "Name": "Fish 2",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "980c8b4a-8c49-4d8d-b49e-1de5030a7331",
+      "X": 6,
+      "Y": 1,
+      "Name": "Spike Walk 1",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "3aff1cc8-57d3-41fd-a15b-1ac5016be139",
+      "X": 7,
+      "Y": 1,
+      "Name": "Spike Walk 2",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "4d82d07e-41ce-47b6-aa7b-3a8a66d1164c",
+      "X": 8,
+      "Y": 1,
+      "Name": "Spike Hide",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "e8ed9a29-9fa1-4606-b222-55e1d55a0ee3",
+      "X": 0,
+      "Y": 2,
+      "Name": "Bug Walk 1",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "3a75712d-5c57-4dad-bde9-8523516aeabd",
+      "X": 1,
+      "Y": 2,
+      "Name": "Bug Walk 2",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "7be5cdce-3f7c-4c6f-9c7e-49ab8561d742",
+      "X": 2,
+      "Y": 2,
+      "Name": "Bug Hide",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "68f49e97-4682-48de-ab4f-f0bfba089edf",
+      "X": 3,
+      "Y": 2,
+      "Name": "Turtle Walk 1",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "e6828180-da1a-4956-ae04-1b36f5827f04",
+      "X": 4,
+      "Y": 2,
+      "Name": "Turtle Walk 2",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "69b7a832-8a75-4275-9b72-d9342aa02bce",
+      "X": 5,
+      "Y": 2,
+      "Name": "Turtle Hide",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "2325fad9-d20c-4cea-a251-ba5d4948b1ab",
+      "X": 6,
+      "Y": 2,
+      "Name": "Fly 1",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "f5fe0f81-d414-4ed2-8738-d6514506c4dd",
+      "X": 7,
+      "Y": 2,
+      "Name": "Fly 2",
+      "FlipHorizontal": true
+    },
+    {
+      "Id": "0b0aad68-50c9-480c-8108-2b65501ab581",
+      "X": 8,
+      "Y": 2,
+      "Name": "Fly 3",
+      "FlipHorizontal": true
+    }
+  ]
+}
