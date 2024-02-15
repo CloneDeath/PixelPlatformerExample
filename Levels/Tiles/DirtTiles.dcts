@@ -6,7 +6,24 @@
     {
       "Id": "b5751424-58a5-4a34-84bb-3f2e97bbed77",
       "Name": "1x1 Grass",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -52,7 +69,24 @@
     {
       "Id": "0a339080-fbaf-4304-8230-1ca21d38ca44",
       "Name": "3x1 Grass Left",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -98,7 +132,24 @@
     {
       "Id": "48a745eb-34bd-4339-8ad1-2c4de91238e1",
       "Name": "3x1 Grass Mid",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -144,7 +195,24 @@
     {
       "Id": "9c2d7362-c73a-4b6a-8b8c-3e3f20208ba4",
       "Name": "3x1 Grass Right",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -190,7 +258,24 @@
     {
       "Id": "207658ed-cb89-4b42-afaf-de29a274df0f",
       "Name": "1x2 Grass Top",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -236,7 +321,24 @@
     {
       "Id": "eac55514-26fa-44a4-92be-0f5c02ae2293",
       "Name": "3x2 Grass Left",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -282,7 +384,24 @@
     {
       "Id": "be628ff4-0dbb-47e4-9ea2-eac115aa51c1",
       "Name": "3x2 Grass Center",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -328,7 +447,24 @@
     {
       "Id": "16c0c1ea-6c59-43fd-8363-f3e4a95c2c97",
       "Name": "3x2 Grass Right",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -374,7 +510,24 @@
     {
       "Id": "b7fed322-ea54-41b3-859d-b739353aacf4",
       "Name": "1x1 Mud",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -420,7 +573,24 @@
     {
       "Id": "5f5096ce-8968-4a4c-af71-1bc653215de2",
       "Name": "3x1 Mud Left",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -466,7 +636,24 @@
     {
       "Id": "3a033dde-6ae7-4ed1-b8ca-9100bf18dbd2",
       "Name": "3x1 Mud Center",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -512,7 +699,24 @@
     {
       "Id": "a7a04281-f8d1-4f8f-9fbe-3e34545ac15d",
       "Name": "3x1 Mud Right",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -558,7 +762,24 @@
     {
       "Id": "acde8cdf-644b-46ba-8fb5-a3af8760a332",
       "Name": "1x2 Mud Top",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -604,7 +825,24 @@
     {
       "Id": "972610e1-4f9e-4345-95c7-9ed736af7ae4",
       "Name": "3x2 Mud Left",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -650,7 +888,24 @@
     {
       "Id": "e485c1ba-2187-4ce5-b555-f8ee6f158f60",
       "Name": "3x2 Mud Center",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -696,7 +951,24 @@
     {
       "Id": "d6abc209-e782-489f-9036-4c284b48f4eb",
       "Name": "3x2 Mud Right",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -742,7 +1014,24 @@
     {
       "Id": "070da66d-2a58-4939-921c-e16ee883504f",
       "Name": "1x1 Snow",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -788,7 +1077,24 @@
     {
       "Id": "ba00871a-7b92-45e9-84f1-9289c3da3b4f",
       "Name": "3x1 Snow Left",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -834,7 +1140,24 @@
     {
       "Id": "21f9c29d-47a8-424d-ab4d-71162b595471",
       "Name": "3x1 Snow Center",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -880,7 +1203,24 @@
     {
       "Id": "e1d6c678-1bda-4f62-9540-a51404fe9880",
       "Name": "3x1 Snow Right",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -926,7 +1266,24 @@
     {
       "Id": "7d29ddfd-4ae0-4355-bf37-7b04e035d132",
       "Name": "3x2 Snow Top",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -972,7 +1329,24 @@
     {
       "Id": "0abe723f-f3e6-4ab4-8ec0-0f6c28356254",
       "Name": "3x2 Snow Left",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -1018,7 +1392,24 @@
     {
       "Id": "4fa50015-8c0e-46e3-a4e0-1249dcd333d0",
       "Name": "3x2 Snow Center",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -1064,7 +1455,24 @@
     {
       "Id": "adfcb6c6-0dc1-4243-8c50-f5bc84154165",
       "Name": "3x2 Snow Right",
-      "Collision": [],
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
       "Size": {
         "Width": 1,
         "Height": 1
@@ -1099,6 +1507,825 @@
           "Id": "381f7cd1-adf8-4f9e-b19b-0703031f866c",
           "Name": "Default",
           "Animation": "9837bf53-6c27-4327-b1c2-06ee2ef2ee58",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "5297e744-11ab-4ea8-b4d2-9bebcdaa7dd6",
+      "Name": "1x3 Dirt Center",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8cc59d80-93d3-4bfb-b88c-47b6549e83b5",
+      "Animations": [
+        {
+          "Id": "00afbcaa-fe1e-44ad-b49f-fb507cda77d9",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "15c2d7dc-7b3d-4c7d-aaad-d02c57417a0e",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8cc59d80-93d3-4bfb-b88c-47b6549e83b5",
+          "Name": "Default",
+          "Animation": "00afbcaa-fe1e-44ad-b49f-fb507cda77d9",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "db532dc6-621a-4b35-b254-253266686c4c",
+      "Name": "1x3 Dirt Bottom",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "2b8ee564-4156-47ec-a543-0bf667c71c6f",
+      "Animations": [
+        {
+          "Id": "5613b81b-129d-4f47-8b12-e3c423122327",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "f3484554-b020-4650-83f3-85fb8280079e",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "2b8ee564-4156-47ec-a543-0bf667c71c6f",
+          "Name": "Default",
+          "Animation": "5613b81b-129d-4f47-8b12-e3c423122327",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "35180082-38e8-49ea-af5c-166df5369a7e",
+      "Name": "3x3 Dirt Left",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "e61b6813-e48d-4c23-9f59-468136e473a7",
+      "Animations": [
+        {
+          "Id": "4e9d1db3-4967-44ed-a979-3dcc88e70efb",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "4eca978d-e0da-4f21-b502-fd378b2a76ea",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "e61b6813-e48d-4c23-9f59-468136e473a7",
+          "Name": "Default",
+          "Animation": "4e9d1db3-4967-44ed-a979-3dcc88e70efb",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "c8e90dd4-f752-4636-b8ca-e5f814d520b3",
+      "Name": "3x3 Dirt 1 Center",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "801ca980-4367-4af2-9de8-bd7a500421f8",
+      "Animations": [
+        {
+          "Id": "610f1a96-75af-434f-a9fd-41de9ec0b9bc",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "2a269408-877c-4b49-aecb-ee2ac07a9560",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "801ca980-4367-4af2-9de8-bd7a500421f8",
+          "Name": "Default",
+          "Animation": "610f1a96-75af-434f-a9fd-41de9ec0b9bc",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "71624eac-2875-4767-90ad-1f2067c840dc",
+      "Name": "3x3 Dirt 2 Center",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "9e1ee938-a484-4fe7-b3c8-0119e4bd0ba0",
+      "Animations": [
+        {
+          "Id": "ffff8f78-f4ef-4bd9-abd4-93570dfe1f95",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "407426ae-8071-48f3-903c-54365055eed2",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "9e1ee938-a484-4fe7-b3c8-0119e4bd0ba0",
+          "Name": "Default",
+          "Animation": "ffff8f78-f4ef-4bd9-abd4-93570dfe1f95",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "2b13a2bb-96b2-46db-a36d-b960379b8717",
+      "Name": "3x3 Dirt Right",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "a7626917-46c5-4412-8e00-cd9437de0a28",
+      "Animations": [
+        {
+          "Id": "97c73a39-605c-435c-8a84-8da13380269c",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "92e0ffcc-c7da-46f7-898e-c1eec6078899",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "a7626917-46c5-4412-8e00-cd9437de0a28",
+          "Name": "Default",
+          "Animation": "97c73a39-605c-435c-8a84-8da13380269c",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "0c483e93-38d1-46df-872e-1957cca94bec",
+      "Name": "3x3 Dirt Bottom Left",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "309bd77a-2a81-4969-86fa-3f99ca245cdc",
+      "Animations": [
+        {
+          "Id": "728a9ea5-7430-4040-ad30-c60c123b388f",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "6e7a41a4-aba4-45d9-83bf-810b3bf39d73",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "309bd77a-2a81-4969-86fa-3f99ca245cdc",
+          "Name": "Default",
+          "Animation": "728a9ea5-7430-4040-ad30-c60c123b388f",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "c6e63594-d1da-45a9-a121-f0a5c6cf3fbe",
+      "Name": "3x3 Dirt Bottom",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "a02e1b73-ce6f-473e-ba12-24e6c8ebab9e",
+      "Animations": [
+        {
+          "Id": "eef35dda-0ba4-4db4-a8ae-0069ade1aa5d",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "46b64b85-37de-4613-8627-fd4a584e10e6",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "a02e1b73-ce6f-473e-ba12-24e6c8ebab9e",
+          "Name": "Default",
+          "Animation": "eef35dda-0ba4-4db4-a8ae-0069ade1aa5d",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "7d3ce077-c246-45c4-a5a0-44e5f591cde9",
+      "Name": "3x3 Dirt Bottom Right",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8238a50d-4b71-4823-9260-d37209783543",
+      "Animations": [
+        {
+          "Id": "60a2ea3e-3949-4ed9-b8ad-dec86c627299",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "81d88142-a3d2-469c-a426-bdb949bc4661",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8238a50d-4b71-4823-9260-d37209783543",
+          "Name": "Default",
+          "Animation": "60a2ea3e-3949-4ed9-b8ad-dec86c627299",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "acfe176c-5b2e-4e2f-a2f4-53538e386a96",
+      "Name": "Dirt Corner Top Left",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8bc4755a-6cfa-4335-97f3-9a922b262c0f",
+      "Animations": [
+        {
+          "Id": "0cff580d-aa33-4b39-8ab8-ba5d34f64299",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "fcff32cb-13ab-4793-837c-76f56688cdc9",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8bc4755a-6cfa-4335-97f3-9a922b262c0f",
+          "Name": "Default",
+          "Animation": "0cff580d-aa33-4b39-8ab8-ba5d34f64299",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "8eedca62-78bf-4f9b-8ca9-b49fb08bade8",
+      "Name": "Dirt Corner Top Right",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "0b619fc1-5531-4f85-90c3-d5d8b1ff9fdc",
+      "Animations": [
+        {
+          "Id": "8eca9fa1-c788-4ad3-9895-4c40e96c6802",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "902f3bd4-0080-474d-b938-702506253dab",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "0b619fc1-5531-4f85-90c3-d5d8b1ff9fdc",
+          "Name": "Default",
+          "Animation": "8eca9fa1-c788-4ad3-9895-4c40e96c6802",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e64ce2ef-1fdf-472a-8d2e-df9c8ee4bbad",
+      "Name": "Dirt Corner Bottom Left",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "5c1f5c67-6d8d-4638-b400-f17a30d7a209",
+      "Animations": [
+        {
+          "Id": "0c601b18-709d-4ca8-8831-c5e4679c0829",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "2e2e26c9-cbf7-424d-80c8-e1379b5214a4",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "5c1f5c67-6d8d-4638-b400-f17a30d7a209",
+          "Name": "Default",
+          "Animation": "0c601b18-709d-4ca8-8831-c5e4679c0829",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "abccad90-0b43-479f-acc9-9a916fb4277a",
+      "Name": "Dirt Corner Bottom Right",
+      "Collision": [
+        {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 0.0
+        },
+        {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        {
+          "X": 0.0,
+          "Y": 1.0
+        }
+      ],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "33e0a70c-8606-4a55-a387-bdbb5d6b600b",
+      "Animations": [
+        {
+          "Id": "71415a27-9e2d-4258-b6bd-6d28edc3f5f2",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "7611c3d2-ba92-4f76-8dcc-5d465923a87f",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "33e0a70c-8606-4a55-a387-bdbb5d6b600b",
+          "Name": "Default",
+          "Animation": "71415a27-9e2d-4258-b6bd-6d28edc3f5f2",
           "Transitions": [],
           "OnEnter": [],
           "OnUpdate": [],

@@ -1,0 +1,110 @@
+{
+  "FileVersion": 1,
+  "File": "background.png",
+  "Width": 24,
+  "Height": 24,
+  "XSeparation": 0,
+  "YSeparation": 0,
+  "XOffset": 0,
+  "YOffset": 0,
+  "Sprites": [
+    {
+      "Id": "6bd05b35-dbd2-4244-8d91-0bfa10d9c1aa",
+      "X": 0,
+      "Y": 0,
+      "Name": "Blue Sky",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "d98843c2-1a81-4d36-a45c-72408c4bacd3",
+      "X": 0,
+      "Y": 1,
+      "Name": "Blue Horizon 1",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "ae6c9f42-51bf-4e72-8129-93028c620ac0",
+      "X": 1,
+      "Y": 1,
+      "Name": "Blue Horizon 2",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "9918101f-fd36-4802-a5c6-65f6a19de95e",
+      "X": 2,
+      "Y": 1,
+      "Name": "Blue Horizon 3",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "d5366a7c-b6b2-4fcb-88e7-eb7b6eaac946",
+      "X": 3,
+      "Y": 1,
+      "Name": "Blue Horizon 4",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "62f71a0d-5dc7-4af4-ba8f-022f9a8187ba",
+      "X": 0,
+      "Y": 2,
+      "Name": "Blue Ground",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "69297a2b-9022-41b8-ab04-d7ed3e2d1da4",
+      "X": 4,
+      "Y": 0,
+      "Name": "Brown Sky",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "9672ab68-a536-432b-b601-8441f4f025f4",
+      "X": 4,
+      "Y": 1,
+      "Name": "Brown Horizon 1",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "b992d6d3-fd6c-4b3b-a2e0-52cc16377ef7",
+      "X": 5,
+      "Y": 1,
+      "Name": "Brown Horizon 2",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "e670e605-b06e-4381-afa1-d9992f474cf1",
+      "X": 4,
+      "Y": 2,
+      "Name": "Brown Ground",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "13569131-9776-4b61-8f3e-aca43afffb40",
+      "X": 6,
+      "Y": 0,
+      "Name": "Green Sky",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "a8bec491-9c94-45ef-a761-127dcecdc139",
+      "X": 6,
+      "Y": 1,
+      "Name": "Green Horizon 1",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "98944abe-ac4f-40fb-8712-c717fad353f4",
+      "X": 7,
+      "Y": 1,
+      "Name": "Green Horizon 2",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "67026a06-8e64-400b-9981-4bdb1dddf143",
+      "X": 6,
+      "Y": 2,
+      "Name": "Green Ground",
+      "FlipHorizontal": false
+    }
+  ]
+}

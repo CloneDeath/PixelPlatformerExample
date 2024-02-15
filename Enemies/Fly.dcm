@@ -84,6 +84,22 @@
             }
           },
           "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "EnemySpriteGrid.dcsg",
+          "SpriteId": "f5fe0f81-d414-4ed2-8738-d6514506c4dd",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
         }
       ]
     }
@@ -93,16 +109,16 @@
       "Id": "fdc98f6d-3b83-4ea9-b8f0-46d486a11b6d",
       "Name": "Default",
       "Animation": "606ecad4-e1fa-4a91-bc6b-86ec423106fa",
-      "Transitions": [
-        {
-          "Id": "28de1ccf-8244-4a90-91f1-696dac45e619",
-          "Name": "",
-          "TargetState": "fdc98f6d-3b83-4ea9-b8f0-46d486a11b6d",
-          "When": {
-            "Self": "Killed"
-          }
-        }
-      ],
+      "Transitions": [],
+      "OnEnter": [],
+      "OnUpdate": [],
+      "OnExit": []
+    },
+    {
+      "Id": "57b807b6-6761-4155-86e3-a876af085088",
+      "Name": "State",
+      "Animation": "00000000-0000-0000-0000-000000000000",
+      "Transitions": [],
       "OnEnter": [],
       "OnUpdate": [],
       "OnExit": []

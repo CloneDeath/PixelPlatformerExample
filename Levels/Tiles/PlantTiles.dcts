@@ -1,0 +1,651 @@
+{
+  "Name": "Plant Tiles",
+  "Id": "ea58ac14-c85d-4fde-8226-2997f39f6654",
+  "FileVersion": 1,
+  "Tiles": [
+    {
+      "Id": "f15bb7a8-968d-4655-a6d0-f5c0c70608ce",
+      "Name": "Plant Small",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "3ae5d19d-3ae4-4e37-81a9-9214cc059c41",
+      "Animations": [
+        {
+          "Id": "53012faa-1928-441f-96b5-b6ba0edd9473",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "f571c2cd-e1e7-4906-b026-7b837f6797ee",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "3ae5d19d-3ae4-4e37-81a9-9214cc059c41",
+          "Name": "Default",
+          "Animation": "53012faa-1928-441f-96b5-b6ba0edd9473",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "9e1a4b35-b83e-4459-af8c-fa36842a7731",
+      "Name": "Plant Large",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "2ff66076-5b7e-4bcf-a750-ac9f724f7450",
+      "Animations": [
+        {
+          "Id": "a915e6e2-8a79-4f71-aed3-f1a54d51e3a3",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "038b2b31-fd91-46eb-ac73-0a6a566137aa",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "2ff66076-5b7e-4bcf-a750-ac9f724f7450",
+          "Name": "Default",
+          "Animation": "a915e6e2-8a79-4f71-aed3-f1a54d51e3a3",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "1d153598-df57-42fb-8f4f-9b8883f1c593",
+      "Name": "Tree",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "b98ce749-9f0e-456d-b390-f2a426b04b76",
+      "Animations": [
+        {
+          "Id": "d1588dc4-7dbe-4e32-871d-c5460abee3b8",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "d9179365-3ceb-4371-8848-b91bca3ef63a",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "b98ce749-9f0e-456d-b390-f2a426b04b76",
+          "Name": "Default",
+          "Animation": "d1588dc4-7dbe-4e32-871d-c5460abee3b8",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "644d4b54-6725-4d05-9889-dbc05c295bd8",
+      "Name": "Cactus",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "1daa67b7-8a07-441b-8282-0a9d67af48ca",
+      "Animations": [
+        {
+          "Id": "efe0a3e5-6479-4127-9fc8-a171dcb03b0c",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "01e2e98a-20d5-4ee1-9727-5f57a93a325c",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "1daa67b7-8a07-441b-8282-0a9d67af48ca",
+          "Name": "Default",
+          "Animation": "efe0a3e5-6479-4127-9fc8-a171dcb03b0c",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "9708ed01-f57b-4911-ba4b-3ed9577af114",
+      "Name": "Red Mushroom",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "4de589ce-7d65-42ec-a865-05cefb941a2a",
+      "Animations": [
+        {
+          "Id": "8a1787c5-1bc9-4134-97fd-e0425a5e594a",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "2123d086-8902-4f97-a6db-213a973e61f3",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "4de589ce-7d65-42ec-a865-05cefb941a2a",
+          "Name": "Default",
+          "Animation": "8a1787c5-1bc9-4134-97fd-e0425a5e594a",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "cd97592c-6075-4a78-8704-65580ec57686",
+      "Name": "Brown Mushroom",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "3ed6d448-a812-43fa-8882-f3215395b625",
+      "Animations": [
+        {
+          "Id": "d2c392e3-5715-4bfb-8252-3df5c4198529",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "aaabbdbf-48cf-44fd-9e5b-91bce194a040",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "3ed6d448-a812-43fa-8882-f3215395b625",
+          "Name": "Default",
+          "Animation": "d2c392e3-5715-4bfb-8252-3df5c4198529",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "18321c51-940a-48a1-8ed4-2e3a875afc9e",
+      "Name": "Snow Plant",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "e16ef78c-8420-4b01-b7d7-d4a5c7a3cd81",
+      "Animations": [
+        {
+          "Id": "36e257bb-0bc3-4a05-ad1c-aecdfd0a30f2",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "1ffd1a70-eb97-4859-9394-51c4b1417636",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "e16ef78c-8420-4b01-b7d7-d4a5c7a3cd81",
+          "Name": "Default",
+          "Animation": "36e257bb-0bc3-4a05-ad1c-aecdfd0a30f2",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "3d2ad1c0-fc60-4e85-b21d-88e7b684c20d",
+      "Name": "Mushroom Stalk Base",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "f757aafa-1189-4431-824e-efe49ef14406",
+      "Animations": [
+        {
+          "Id": "03b92944-1184-42fb-984d-0f31c113a96b",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "7aa09e76-d817-44fe-9a84-2ebf3c586110",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "f757aafa-1189-4431-824e-efe49ef14406",
+          "Name": "Default",
+          "Animation": "03b92944-1184-42fb-984d-0f31c113a96b",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "66630a64-d080-4791-a27b-da37cf6fc662",
+      "Name": "Mushroom Stalk 1",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "d44ba0ad-1b1b-4192-8693-6dced3e6ea45",
+      "Animations": [
+        {
+          "Id": "611c0325-d9d3-4bb4-819a-e681fbb89c14",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "a7f1fcd6-5c86-4993-abd3-ad51aa92daf6",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "d44ba0ad-1b1b-4192-8693-6dced3e6ea45",
+          "Name": "Default",
+          "Animation": "611c0325-d9d3-4bb4-819a-e681fbb89c14",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "0bf08ef7-3409-4800-b16e-79abe94f5c22",
+      "Name": "Mushroom Stalk 2",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "4399e3f4-8f8c-42d2-a110-66ce1a09aac2",
+      "Animations": [
+        {
+          "Id": "ae50f95a-b1b1-4514-b487-ebdeda8eaefa",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "94f76d4e-f05c-4e60-91d9-90263dc59df6",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "4399e3f4-8f8c-42d2-a110-66ce1a09aac2",
+          "Name": "Default",
+          "Animation": "ae50f95a-b1b1-4514-b487-ebdeda8eaefa",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e853d92f-2ad4-4a7e-a200-ee97ed770d9d",
+      "Name": "Mushroom Stalk Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "ecd2a854-1cce-40de-8b8d-ef65b0322dfa",
+      "Animations": [
+        {
+          "Id": "64b3000a-693f-47ea-8af0-a6957ab4bd53",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "f5446c14-8748-439d-bb47-a773335e6c26",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "ecd2a854-1cce-40de-8b8d-ef65b0322dfa",
+          "Name": "Default",
+          "Animation": "64b3000a-693f-47ea-8af0-a6957ab4bd53",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "8be72aaf-2b78-431c-9d0d-5f97af48b734",
+      "Name": "Mushroom Top Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "25257714-625b-4ed4-bbe8-3c4a1c0b8df3",
+      "Animations": [
+        {
+          "Id": "8f2d80d6-ef55-4499-871b-5bfe1ff846e5",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "70234a24-e941-4d3c-8af8-42ca11131614",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "25257714-625b-4ed4-bbe8-3c4a1c0b8df3",
+          "Name": "Default",
+          "Animation": "8f2d80d6-ef55-4499-871b-5bfe1ff846e5",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "ef072315-d521-4117-ae8d-766c56442b5d",
+      "Name": "Mushroom Top Middle",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "9029e979-f8bc-41ec-b2ca-fadc9af41cb0",
+      "Animations": [
+        {
+          "Id": "d2f976ae-6093-4f0f-b614-2265aa519a7b",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "f2a9bfb4-90f4-419f-b626-1ada3a2013b1",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "9029e979-f8bc-41ec-b2ca-fadc9af41cb0",
+          "Name": "Default",
+          "Animation": "d2f976ae-6093-4f0f-b614-2265aa519a7b",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "1ed1a4ac-b3f4-4577-91c5-de1b5ef37503",
+      "Name": "Mushroom Top Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "5c26eb5f-a56b-4c5d-af82-23c2d079774c",
+      "Animations": [
+        {
+          "Id": "44f30d19-45a7-492a-adbf-035b5299582d",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "6c43813c-0ec2-4c78-8319-0ee3ea46b168",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "5c26eb5f-a56b-4c5d-af82-23c2d079774c",
+          "Name": "Default",
+          "Animation": "44f30d19-45a7-492a-adbf-035b5299582d",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    }
+  ]
+}

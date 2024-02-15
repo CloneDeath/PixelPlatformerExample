@@ -266,6 +266,300 @@
       "Y": 1,
       "Name": "Dirt Corner Bottom Right",
       "FlipHorizontal": false
+    },
+    {
+      "Id": "f571c2cd-e1e7-4906-b026-7b837f6797ee",
+      "X": 4,
+      "Y": 6,
+      "Name": "Plant Small",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "038b2b31-fd91-46eb-ac73-0a6a566137aa",
+      "X": 5,
+      "Y": 6,
+      "Name": "Plant Large",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "d9179365-3ceb-4371-8848-b91bca3ef63a",
+      "X": 6,
+      "Y": 6,
+      "Name": "Tree",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "01e2e98a-20d5-4ee1-9727-5f57a93a325c",
+      "X": 7,
+      "Y": 6,
+      "Name": "Cactus",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "2123d086-8902-4f97-a6db-213a973e61f3",
+      "X": 8,
+      "Y": 6,
+      "Name": "Red Mushroom",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "aaabbdbf-48cf-44fd-9e5b-91bce194a040",
+      "X": 9,
+      "Y": 6,
+      "Name": "Brown Mushroom",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "1ffd1a70-eb97-4859-9394-51c4b1417636",
+      "X": 4,
+      "Y": 7,
+      "Name": "Snow Plant",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "7aa09e76-d817-44fe-9a84-2ebf3c586110",
+      "X": 12,
+      "Y": 3,
+      "Name": "Mushroom Stalk Base",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "a7f1fcd6-5c86-4993-abd3-ad51aa92daf6",
+      "X": 12,
+      "Y": 2,
+      "Name": "Mushroom Stalk 1",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "94f76d4e-f05c-4e60-91d9-90263dc59df6",
+      "X": 12,
+      "Y": 1,
+      "Name": "Mushroom Stalk 2",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "f5446c14-8748-439d-bb47-a773335e6c26",
+      "X": 12,
+      "Y": 0,
+      "Name": "Mushroom Stalk Top",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "70234a24-e941-4d3c-8af8-42ca11131614",
+      "X": 14,
+      "Y": 0,
+      "Name": "Mushroom Top Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "f2a9bfb4-90f4-419f-b626-1ada3a2013b1",
+      "X": 13,
+      "Y": 0,
+      "Name": "Mushroom Top Middle",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "6c43813c-0ec2-4c78-8319-0ee3ea46b168",
+      "X": 15,
+      "Y": 0,
+      "Name": "Mushroom Top Right",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "52ce04f8-49f4-47fa-8e7a-0675aaf20eb0",
+      "X": 17,
+      "Y": 6,
+      "Name": "Trunk Base",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "9da985f3-6912-43d1-8d83-7a5f9efaaaaf",
+      "X": 16,
+      "Y": 5,
+      "Name": "Trunk",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "a78687bc-46bb-48a5-996b-f90872ea01ae",
+      "X": 16,
+      "Y": 6,
+      "Name": "Trunk Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "ec86c65e-d1ed-4efb-8573-ca5881fca75a",
+      "X": 17,
+      "Y": 5,
+      "Name": "Trunk Middle",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "06f6f8c1-bea1-4bc1-85ab-251eb7dfe921",
+      "X": 18,
+      "Y": 6,
+      "Name": "Trunk Right",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "50ba5ea2-e5e1-45f9-88e2-329c8996f971",
+      "X": 16,
+      "Y": 4,
+      "Name": "Trunk Lead",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "c2d6f82c-d1f7-4e95-9940-fbc03d62a7fb",
+      "X": 17,
+      "Y": 4,
+      "Name": "Trunk Top",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "3cc624f4-63e7-469e-b9c4-6414f3848997",
+      "X": 18,
+      "Y": 5,
+      "Name": "Branch Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "0f555174-e76a-429a-ad97-7fd2a2225424",
+      "X": 19,
+      "Y": 5,
+      "Name": "Branch Middle",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "7012bbd2-5409-4d61-9edc-d4c7ac5604be",
+      "X": 19,
+      "Y": 6,
+      "Name": "Branch Right",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "8b105661-d578-4edd-8076-bef7d50fe5af",
+      "X": 18,
+      "Y": 4,
+      "Name": "Leaf Branch Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "95de5430-f10e-470d-b190-2b0f39dadbc0",
+      "X": 19,
+      "Y": 4,
+      "Name": "Leaf Branch",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "606afa95-9d50-4cd8-a22f-f9ffcfb15772",
+      "X": 16,
+      "Y": 0,
+      "Name": "1x1 Leaf",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "46ac7e6e-ef66-432b-a8ff-6ed746ab2ae7",
+      "X": 16,
+      "Y": 1,
+      "Name": "1x3 Leaf Top",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "9d515701-1682-4dfc-a41f-778d34002859",
+      "X": 16,
+      "Y": 2,
+      "Name": "1x3 Leaf Middle",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "f97b62ef-a049-4960-9686-c4d9abbf86bb",
+      "X": 16,
+      "Y": 3,
+      "Name": "1x3 Leaf Bottom",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "ff9457cd-cb0d-4ead-b010-4c1fb45463a2",
+      "X": 17,
+      "Y": 3,
+      "Name": "3x1 Leaf Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "397cd3f5-ecd2-4f48-8d76-c1d699383e17",
+      "X": 18,
+      "Y": 3,
+      "Name": "3x1 Leaf Middle",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "b13dd1fe-23a3-415a-b910-8f53af19ea45",
+      "X": 19,
+      "Y": 3,
+      "Name": "3x1 Leaf Right",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "a728590b-4edf-41d3-985d-40493c253815",
+      "X": 17,
+      "Y": 0,
+      "Name": "3x3 Leaf Top Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "8037002b-fe9f-4ec0-b0d4-42e9f999206e",
+      "X": 18,
+      "Y": 0,
+      "Name": "3x3 Leaf Top",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "4762e83a-922f-49d6-a6f6-7cf63740a06c",
+      "X": 19,
+      "Y": 0,
+      "Name": "3x3 Leaf Top Right",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "b23ae21d-e612-4195-ac1a-166593faeef5",
+      "X": 17,
+      "Y": 1,
+      "Name": "3x3 Leaf Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "a3b35d2b-9588-42a2-9871-dc1b27541860",
+      "X": 18,
+      "Y": 1,
+      "Name": "3x3 Leaf Center",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "a1cf9c66-f8ce-4dd7-b45f-7ad78193ae39",
+      "X": 19,
+      "Y": 1,
+      "Name": "3x3 Leaf Right",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "e32fbce4-8f6c-4cc5-895c-50b847d777ee",
+      "X": 17,
+      "Y": 2,
+      "Name": "3x3 Leaft Bottom Left",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "64ca320b-0ce9-466a-b1e2-7196b0906bd9",
+      "X": 18,
+      "Y": 2,
+      "Name": "3x3 Leaf Bottom",
+      "FlipHorizontal": false
+    },
+    {
+      "Id": "3d66f2a4-73f0-4f84-8b91-cdfc62972a9a",
+      "X": 19,
+      "Y": 2,
+      "Name": "3x3 Leaf Bottom Right",
+      "FlipHorizontal": false
     }
   ]
 }

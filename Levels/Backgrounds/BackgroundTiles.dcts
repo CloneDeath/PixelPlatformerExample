@@ -1,0 +1,651 @@
+{
+  "Name": "Background Tiles",
+  "Id": "b6af70d3-b5b5-4faf-b0bd-1f418615f526",
+  "FileVersion": 1,
+  "Tiles": [
+    {
+      "Id": "f6ab1385-b16b-4148-9f5c-861b1735bc29",
+      "Name": "Blue Sky",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "7fe83321-5b18-42b2-bed7-8eb8749dc414",
+      "Animations": [
+        {
+          "Id": "d90c6ce5-d353-4ae7-b3a3-64d13dffe33d",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "6bd05b35-dbd2-4244-8d91-0bfa10d9c1aa",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "7fe83321-5b18-42b2-bed7-8eb8749dc414",
+          "Name": "Default",
+          "Animation": "d90c6ce5-d353-4ae7-b3a3-64d13dffe33d",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "ca40c034-ab02-42a3-9f7f-3428de8bcfa7",
+      "Name": "Blue Horizon 1",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "45cacd79-64e3-4d73-82eb-c357edd56ba7",
+      "Animations": [
+        {
+          "Id": "896ba168-8c64-4a0e-a1b4-97a5f2861fb5",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "d98843c2-1a81-4d36-a45c-72408c4bacd3",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "45cacd79-64e3-4d73-82eb-c357edd56ba7",
+          "Name": "Default",
+          "Animation": "896ba168-8c64-4a0e-a1b4-97a5f2861fb5",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "c0bd43f0-5e0a-4bf8-a204-9bf0c5ad694d",
+      "Name": "Blue Horizon 2",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "b1352466-14dd-4534-b3f9-8583c9f5ae32",
+      "Animations": [
+        {
+          "Id": "1ca11c4f-6ed7-4637-b050-486c012e7b4c",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "ae6c9f42-51bf-4e72-8129-93028c620ac0",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "b1352466-14dd-4534-b3f9-8583c9f5ae32",
+          "Name": "Default",
+          "Animation": "1ca11c4f-6ed7-4637-b050-486c012e7b4c",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "fb0ef7d4-b4a8-4e4c-905b-77ec25864601",
+      "Name": "Blue Horizon 3",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "6f850e01-e469-4113-835b-f8a48179f4ae",
+      "Animations": [
+        {
+          "Id": "8337c0eb-c239-4935-93ee-d1b5ef6c49e2",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "9918101f-fd36-4802-a5c6-65f6a19de95e",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "6f850e01-e469-4113-835b-f8a48179f4ae",
+          "Name": "Default",
+          "Animation": "8337c0eb-c239-4935-93ee-d1b5ef6c49e2",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "a272b0b9-f1cb-461c-a80f-bde558f6e2ba",
+      "Name": "Blue Horizon 4",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "2d83cc41-a839-4e65-8d5e-83d77d1c7a72",
+      "Animations": [
+        {
+          "Id": "b923327e-4d64-4ccd-abd4-636ed4750b0c",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "d5366a7c-b6b2-4fcb-88e7-eb7b6eaac946",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "2d83cc41-a839-4e65-8d5e-83d77d1c7a72",
+          "Name": "Default",
+          "Animation": "b923327e-4d64-4ccd-abd4-636ed4750b0c",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "b4537b7f-b392-4543-8814-62852be7d122",
+      "Name": "Blue Ground",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8c6c6ae1-1cc1-47fc-b26a-9cd13b15120f",
+      "Animations": [
+        {
+          "Id": "91f50655-c440-4c25-a2aa-87d143ca2f19",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "62f71a0d-5dc7-4af4-ba8f-022f9a8187ba",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8c6c6ae1-1cc1-47fc-b26a-9cd13b15120f",
+          "Name": "Default",
+          "Animation": "91f50655-c440-4c25-a2aa-87d143ca2f19",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "7d648e74-c181-4923-8e77-22986e32d68e",
+      "Name": "Brown Sky",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "ad59c25f-6aa4-413a-83bf-6aa6b75d548d",
+      "Animations": [
+        {
+          "Id": "3100cd39-dc26-43d6-89fe-4c5b0f85701b",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "69297a2b-9022-41b8-ab04-d7ed3e2d1da4",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "ad59c25f-6aa4-413a-83bf-6aa6b75d548d",
+          "Name": "Default",
+          "Animation": "3100cd39-dc26-43d6-89fe-4c5b0f85701b",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "1cf8420a-4475-483f-b24d-f0cfa0855282",
+      "Name": "Brown Horizon 1",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "1ea27730-2856-4071-963a-be8315272a38",
+      "Animations": [
+        {
+          "Id": "7e17bb3f-75fe-4016-9678-558b7092e673",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "9672ab68-a536-432b-b601-8441f4f025f4",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "1ea27730-2856-4071-963a-be8315272a38",
+          "Name": "Default",
+          "Animation": "7e17bb3f-75fe-4016-9678-558b7092e673",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e3384df6-4b03-4965-883b-8c94fe234d3d",
+      "Name": "Brown Horizon 2",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "1e7c8831-3d67-40f3-b03e-7344afabe03a",
+      "Animations": [
+        {
+          "Id": "07c48b47-a0c0-413f-b982-6a166a664ffe",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "b992d6d3-fd6c-4b3b-a2e0-52cc16377ef7",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "1e7c8831-3d67-40f3-b03e-7344afabe03a",
+          "Name": "Default",
+          "Animation": "07c48b47-a0c0-413f-b982-6a166a664ffe",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "6a648ac3-80f7-4c3f-9cff-0ed2ec91d640",
+      "Name": "Brown Ground",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "47cd91e7-fe33-402a-aec5-d702541d4939",
+      "Animations": [
+        {
+          "Id": "ea2ce184-2b92-43e3-a0f2-2c81e5d37fe0",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "e670e605-b06e-4381-afa1-d9992f474cf1",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "47cd91e7-fe33-402a-aec5-d702541d4939",
+          "Name": "Default",
+          "Animation": "ea2ce184-2b92-43e3-a0f2-2c81e5d37fe0",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "dca19232-2521-4008-a041-8b74ccbf61da",
+      "Name": "Green Sky",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "2f0002d2-b8fc-461a-8250-36fb992c0bd4",
+      "Animations": [
+        {
+          "Id": "29e9a022-b2b0-465a-8016-43fddd76f783",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "13569131-9776-4b61-8f3e-aca43afffb40",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "2f0002d2-b8fc-461a-8250-36fb992c0bd4",
+          "Name": "Default",
+          "Animation": "29e9a022-b2b0-465a-8016-43fddd76f783",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "c598673f-aaa6-46e3-ae1b-df9e13a90723",
+      "Name": "Green Horizon 1",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "d944ea80-f3d1-4f04-80af-50a24e455086",
+      "Animations": [
+        {
+          "Id": "c2b64c43-f08a-4f64-969e-be458e3d0850",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "a8bec491-9c94-45ef-a761-127dcecdc139",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "d944ea80-f3d1-4f04-80af-50a24e455086",
+          "Name": "Default",
+          "Animation": "c2b64c43-f08a-4f64-969e-be458e3d0850",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "199209fc-86fb-4fd7-ba87-36aca855e75a",
+      "Name": "Green Horizon 2",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "7a82c5ec-0b79-4741-8b4c-9aa8deb9c217",
+      "Animations": [
+        {
+          "Id": "bd9483c0-7435-4a91-8e86-6d87666d694a",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "98944abe-ac4f-40fb-8712-c717fad353f4",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "7a82c5ec-0b79-4741-8b4c-9aa8deb9c217",
+          "Name": "Default",
+          "Animation": "bd9483c0-7435-4a91-8e86-6d87666d694a",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "7a7a7fbc-1fa9-48a0-9d27-9341055f2036",
+      "Name": "Green Ground",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "1954fe56-a913-4693-b3ab-91bce6c3462c",
+      "Animations": [
+        {
+          "Id": "57ceb4a5-ccbc-4cb9-ba82-63f56c9a4fd9",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "BackgroundSprites.dcsg",
+              "SpriteId": "67026a06-8e64-400b-9981-4bdb1dddf143",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "1954fe56-a913-4693-b3ab-91bce6c3462c",
+          "Name": "Default",
+          "Animation": "57ceb4a5-ccbc-4cb9-ba82-63f56c9a4fd9",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    }
+  ]
+}
