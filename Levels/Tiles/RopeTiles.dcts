@@ -1,0 +1,329 @@
+{
+  "Name": "Rope Tiles",
+  "Id": "d25371fe-a47d-4a78-8b1f-8f930fd85f77",
+  "FileVersion": 1,
+  "Tiles": [
+    {
+      "Id": "61e8d877-ef28-4b53-bc61-7b6d94e50770",
+      "Name": "Rope Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8ddb60d7-1aa5-4f22-89b8-765f759bdec4",
+      "Animations": [
+        {
+          "Id": "ba4f544c-46f2-4750-9d89-1da19ae6115c",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "6c1c1e22-49d7-455d-919e-011ea686ffa7",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8ddb60d7-1aa5-4f22-89b8-765f759bdec4",
+          "Name": "Default",
+          "Animation": "ba4f544c-46f2-4750-9d89-1da19ae6115c",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "61bbf637-473c-4cb2-9331-5c582c2fb54d",
+      "Name": "Rope Vertical",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "800805ec-5d16-4132-b085-3b97b9b64a25",
+      "Animations": [
+        {
+          "Id": "ea9bb1fa-2e17-450c-bf06-1e8aea63abeb",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "843814b2-3163-4bb0-a97f-f90e67e82600",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "800805ec-5d16-4132-b085-3b97b9b64a25",
+          "Name": "Default",
+          "Animation": "ea9bb1fa-2e17-450c-bf06-1e8aea63abeb",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "ada5beb0-fc55-4bc7-879e-4035112ec910",
+      "Name": "Rope Bottom",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "be6cca31-a0a4-46cc-ba2a-53e210949b6a",
+      "Animations": [
+        {
+          "Id": "f20c08d5-152e-45a9-bb0a-96dad7382d6c",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "85010e7f-5f6f-4667-b952-b1e343b74a2d",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "be6cca31-a0a4-46cc-ba2a-53e210949b6a",
+          "Name": "Default",
+          "Animation": "f20c08d5-152e-45a9-bb0a-96dad7382d6c",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "76ff2207-35c3-46e3-ab8c-f9537627315d",
+      "Name": "Rope Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "a41c35a9-128e-4fbb-b840-0a44e46f2210",
+      "Animations": [
+        {
+          "Id": "08bf0212-b03e-4aa3-aa1c-98c5fb2c693e",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "f1749b65-1b50-476c-b84d-4b90b6adacd8",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "a41c35a9-128e-4fbb-b840-0a44e46f2210",
+          "Name": "Default",
+          "Animation": "08bf0212-b03e-4aa3-aa1c-98c5fb2c693e",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "9f47befb-8d5d-440b-aa2e-ce6838c94971",
+      "Name": "Rope Horizontal",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "7a80c1f0-f7ff-4680-ac8e-b79dde654dad",
+      "Animations": [
+        {
+          "Id": "91d19250-ec3c-4d28-9cb9-f304c28f8052",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "32ee86cb-12b6-4dc1-8eb5-3b36c5d9b043",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "7a80c1f0-f7ff-4680-ac8e-b79dde654dad",
+          "Name": "Default",
+          "Animation": "91d19250-ec3c-4d28-9cb9-f304c28f8052",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "ed687347-3007-4741-ba8d-c59ce30a2180",
+      "Name": "Rope Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "e0402d96-9b77-40f8-b9ce-d40e925f0b5c",
+      "Animations": [
+        {
+          "Id": "03876da7-a3b2-4d50-9949-b25b64dc8c75",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "e32e661e-6f8f-4f94-a88d-a92800fa6b9b",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "e0402d96-9b77-40f8-b9ce-d40e925f0b5c",
+          "Name": "Default",
+          "Animation": "03876da7-a3b2-4d50-9949-b25b64dc8c75",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e56b1f28-a343-40c4-914e-b0a4c710f5c9",
+      "Name": "Rope Anchor",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "6c97d865-ca75-4373-ad62-9c4596a25666",
+      "Animations": [
+        {
+          "Id": "c7f59117-fc88-4460-8960-8871dbe171c7",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "6511b5e8-218c-473f-a104-dd9753b93704",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "6c97d865-ca75-4373-ad62-9c4596a25666",
+          "Name": "Default",
+          "Animation": "c7f59117-fc88-4460-8960-8871dbe171c7",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    }
+  ]
+}

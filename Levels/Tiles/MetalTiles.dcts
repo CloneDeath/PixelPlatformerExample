@@ -1,0 +1,105 @@
+{
+  "Name": "Metal Tiles",
+  "Id": "205128d5-e665-4b73-b3ca-de201b80231d",
+  "FileVersion": 1,
+  "Tiles": [
+    {
+      "Id": "88b50c40-3928-4b86-9628-b36847628926",
+      "Name": "Spikes",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "3524e29a-670c-43e5-894c-0efd8fb6c077",
+      "Animations": [
+        {
+          "Id": "eecd727c-c576-4e02-9bc0-f98e89c496e4",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "4a05006b-2272-4972-a64b-597d7b43d9b1",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": [],
+              "HurtBox": {
+                "X": 0,
+                "Y": 9,
+                "Width": 18,
+                "Height": 9
+              }
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "3524e29a-670c-43e5-894c-0efd8fb6c077",
+          "Name": "Default",
+          "Animation": "eecd727c-c576-4e02-9bc0-f98e89c496e4",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "8855a84f-ccab-4b4a-8960-66bf7294532f",
+      "Name": "Booster Down",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "9fe464e7-a3d0-4ceb-97ba-c9360dac51d7",
+      "Animations": [
+        {
+          "Id": "d6ef9509-ec85-4ec8-b9e8-40c6b4c4a67e",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "75bb0ac4-9bba-4b8d-a64d-775742a924db",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "9fe464e7-a3d0-4ceb-97ba-c9360dac51d7",
+          "Name": "Default",
+          "Animation": "d6ef9509-ec85-4ec8-b9e8-40c6b4c4a67e",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    }
+  ]
+}

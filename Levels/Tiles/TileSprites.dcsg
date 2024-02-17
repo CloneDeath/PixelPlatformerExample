@@ -9,557 +9,996 @@
   "YOffset": 0,
   "Sprites": [
     {
-      "Id": "1c9ee080-4034-4e9a-ab5e-705ef20ff7de",
       "X": 0,
       "Y": 0,
       "Name": "1x1 Grass",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "1c9ee080-4034-4e9a-ab5e-705ef20ff7de"
     },
     {
-      "Id": "8ee7da56-685f-4d2d-ab5e-ebcdb76b419a",
       "X": 1,
       "Y": 0,
       "Name": "3x1 Grass Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "8ee7da56-685f-4d2d-ab5e-ebcdb76b419a"
     },
     {
-      "Id": "e67c90bf-c9f9-47de-9c4c-f047d4e81915",
       "X": 2,
       "Y": 0,
       "Name": "3x1 Grass Mid",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "e67c90bf-c9f9-47de-9c4c-f047d4e81915"
     },
     {
-      "Id": "019302be-924e-40b8-8bfe-dfba055e15eb",
       "X": 3,
       "Y": 0,
       "Name": "3x1 Grass Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "019302be-924e-40b8-8bfe-dfba055e15eb"
     },
     {
-      "Id": "a82ee37b-a309-4ebf-90da-55f288b64343",
       "X": 0,
       "Y": 1,
       "Name": "1x2 Grass Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a82ee37b-a309-4ebf-90da-55f288b64343"
     },
     {
-      "Id": "7469ae99-b270-42c0-bebb-f55ba79fce63",
       "X": 1,
       "Y": 1,
       "Name": "3x2 Grass Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "7469ae99-b270-42c0-bebb-f55ba79fce63"
     },
     {
-      "Id": "75529c1c-e289-4b40-9773-4d7b59379447",
       "X": 2,
       "Y": 1,
       "Name": "3x2 Grass Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "75529c1c-e289-4b40-9773-4d7b59379447"
     },
     {
-      "Id": "d830b260-adb2-4955-9230-b795e6373348",
       "X": 3,
       "Y": 1,
       "Name": "3x2 Grass Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "d830b260-adb2-4955-9230-b795e6373348"
     },
     {
-      "Id": "5039a526-deba-49ea-9612-832b49e1b371",
       "X": 0,
       "Y": 2,
       "Name": "1x1 Mud",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "5039a526-deba-49ea-9612-832b49e1b371"
     },
     {
-      "Id": "eac373b1-5820-4d13-8bf7-302f73d9a0cb",
       "X": 1,
       "Y": 2,
       "Name": "3x1 Mud Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "eac373b1-5820-4d13-8bf7-302f73d9a0cb"
     },
     {
-      "Id": "111ec0bf-b8f3-4407-a508-c3355e7b7e55",
       "X": 2,
       "Y": 2,
       "Name": "3x1 Mud Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "111ec0bf-b8f3-4407-a508-c3355e7b7e55"
     },
     {
-      "Id": "e9eb1478-3176-40f1-94f7-f2c76af66b7a",
       "X": 3,
       "Y": 2,
       "Name": "3x1 Mud Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "e9eb1478-3176-40f1-94f7-f2c76af66b7a"
     },
     {
-      "Id": "8c4aef60-2a43-484d-9783-f60f1d2152ef",
       "X": 0,
       "Y": 3,
       "Name": "1x2 Mud Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "8c4aef60-2a43-484d-9783-f60f1d2152ef"
     },
     {
-      "Id": "c9aba09b-4e7c-404f-b2a5-254ffb8e2d65",
       "X": 1,
       "Y": 3,
       "Name": "3x2 Mud Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "c9aba09b-4e7c-404f-b2a5-254ffb8e2d65"
     },
     {
-      "Id": "5feb9cb0-fc1d-4c77-a94b-d9ea0eee04ac",
       "X": 2,
       "Y": 3,
       "Name": "3x2 Mud Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "5feb9cb0-fc1d-4c77-a94b-d9ea0eee04ac"
     },
     {
-      "Id": "7cd1f527-14d7-40f4-bb25-cdc50156c877",
       "X": 3,
       "Y": 3,
       "Name": "3x2 Mud Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "7cd1f527-14d7-40f4-bb25-cdc50156c877"
     },
     {
-      "Id": "c93dff66-e152-4ca3-90fe-00398b36cd2e",
       "X": 0,
       "Y": 4,
       "Name": "1x1 Snow",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "c93dff66-e152-4ca3-90fe-00398b36cd2e"
     },
     {
-      "Id": "3077a37a-1b4f-40d9-bdfd-8212a66cde89",
       "X": 1,
       "Y": 4,
       "Name": "3x1 Snow Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "3077a37a-1b4f-40d9-bdfd-8212a66cde89"
     },
     {
-      "Id": "e3ee2633-99ca-4a6f-b330-548f818fc9bb",
       "X": 2,
       "Y": 4,
       "Name": "3x1 Snow Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "e3ee2633-99ca-4a6f-b330-548f818fc9bb"
     },
     {
-      "Id": "414b3122-d596-45b6-ac1b-f0ef4c0bd407",
       "X": 3,
       "Y": 4,
       "Name": "3x1 Snow Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "414b3122-d596-45b6-ac1b-f0ef4c0bd407"
     },
     {
-      "Id": "eb639ff1-8c4b-4868-9f4b-89936bf053cc",
       "X": 0,
       "Y": 5,
       "Name": "3x2 Snow Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "eb639ff1-8c4b-4868-9f4b-89936bf053cc"
     },
     {
-      "Id": "5162f482-f162-4e54-9d71-008d2c9a4e64",
       "X": 1,
       "Y": 5,
       "Name": "3x2 Snow Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "5162f482-f162-4e54-9d71-008d2c9a4e64"
     },
     {
-      "Id": "520e1069-df25-429c-8adf-699158d8ceec",
       "X": 2,
       "Y": 5,
       "Name": "3x2 Snow Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "520e1069-df25-429c-8adf-699158d8ceec"
     },
     {
-      "Id": "942e01a1-e44f-4dc3-bff5-19ca7d71fa21",
       "X": 3,
       "Y": 5,
       "Name": "3x2 Snow Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "942e01a1-e44f-4dc3-bff5-19ca7d71fa21"
     },
     {
-      "Id": "15c2d7dc-7b3d-4c7d-aaad-d02c57417a0e",
       "X": 0,
       "Y": 6,
       "Name": "1x3 Dirt Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "15c2d7dc-7b3d-4c7d-aaad-d02c57417a0e"
     },
     {
-      "Id": "f3484554-b020-4650-83f3-85fb8280079e",
       "X": 0,
       "Y": 7,
       "Name": "1x3 Dirt Bottom",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "f3484554-b020-4650-83f3-85fb8280079e"
     },
     {
-      "Id": "4eca978d-e0da-4f21-b502-fd378b2a76ea",
       "X": 1,
       "Y": 6,
       "Name": "3x3 Dirt Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "4eca978d-e0da-4f21-b502-fd378b2a76ea"
     },
     {
-      "Id": "2a269408-877c-4b49-aecb-ee2ac07a9560",
       "X": 2,
       "Y": 6,
       "Name": "3x3 Dirt 1 Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "2a269408-877c-4b49-aecb-ee2ac07a9560"
     },
     {
-      "Id": "407426ae-8071-48f3-903c-54365055eed2",
       "X": 4,
       "Y": 5,
       "Name": "3x3 Dirt 2 Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "407426ae-8071-48f3-903c-54365055eed2"
     },
     {
-      "Id": "92e0ffcc-c7da-46f7-898e-c1eec6078899",
       "X": 3,
       "Y": 6,
       "Name": "3x3 Dirt Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "92e0ffcc-c7da-46f7-898e-c1eec6078899"
     },
     {
-      "Id": "6e7a41a4-aba4-45d9-83bf-810b3bf39d73",
       "X": 1,
       "Y": 7,
       "Name": "3x3 Dirt Bottom Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "6e7a41a4-aba4-45d9-83bf-810b3bf39d73"
     },
     {
-      "Id": "46b64b85-37de-4613-8627-fd4a584e10e6",
       "X": 2,
       "Y": 7,
       "Name": "3x3 Dirt Bottom",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "46b64b85-37de-4613-8627-fd4a584e10e6"
     },
     {
-      "Id": "81d88142-a3d2-469c-a426-bdb949bc4661",
       "X": 3,
       "Y": 7,
       "Name": "3x3 Dirt Bottom Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "81d88142-a3d2-469c-a426-bdb949bc4661"
     },
     {
-      "Id": "fcff32cb-13ab-4793-837c-76f56688cdc9",
       "X": 4,
       "Y": 0,
       "Name": "Dirt Corner Top Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "fcff32cb-13ab-4793-837c-76f56688cdc9"
     },
     {
-      "Id": "902f3bd4-0080-474d-b938-702506253dab",
       "X": 5,
       "Y": 0,
       "Name": "Dirt Corner Top Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "902f3bd4-0080-474d-b938-702506253dab"
     },
     {
-      "Id": "2e2e26c9-cbf7-424d-80c8-e1379b5214a4",
       "X": 4,
       "Y": 1,
       "Name": "Dirt Corner Bottom Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "2e2e26c9-cbf7-424d-80c8-e1379b5214a4"
     },
     {
-      "Id": "7611c3d2-ba92-4f76-8dcc-5d465923a87f",
       "X": 5,
       "Y": 1,
       "Name": "Dirt Corner Bottom Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "7611c3d2-ba92-4f76-8dcc-5d465923a87f"
     },
     {
-      "Id": "f571c2cd-e1e7-4906-b026-7b837f6797ee",
       "X": 4,
       "Y": 6,
       "Name": "Plant Small",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "f571c2cd-e1e7-4906-b026-7b837f6797ee"
     },
     {
-      "Id": "038b2b31-fd91-46eb-ac73-0a6a566137aa",
       "X": 5,
       "Y": 6,
       "Name": "Plant Large",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "038b2b31-fd91-46eb-ac73-0a6a566137aa"
     },
     {
-      "Id": "d9179365-3ceb-4371-8848-b91bca3ef63a",
       "X": 6,
       "Y": 6,
       "Name": "Tree",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "d9179365-3ceb-4371-8848-b91bca3ef63a"
     },
     {
-      "Id": "01e2e98a-20d5-4ee1-9727-5f57a93a325c",
       "X": 7,
       "Y": 6,
       "Name": "Cactus",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "01e2e98a-20d5-4ee1-9727-5f57a93a325c"
     },
     {
-      "Id": "2123d086-8902-4f97-a6db-213a973e61f3",
       "X": 8,
       "Y": 6,
       "Name": "Red Mushroom",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "2123d086-8902-4f97-a6db-213a973e61f3"
     },
     {
-      "Id": "aaabbdbf-48cf-44fd-9e5b-91bce194a040",
       "X": 9,
       "Y": 6,
       "Name": "Brown Mushroom",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "aaabbdbf-48cf-44fd-9e5b-91bce194a040"
     },
     {
-      "Id": "1ffd1a70-eb97-4859-9394-51c4b1417636",
       "X": 4,
       "Y": 7,
       "Name": "Snow Plant",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "1ffd1a70-eb97-4859-9394-51c4b1417636"
     },
     {
-      "Id": "7aa09e76-d817-44fe-9a84-2ebf3c586110",
       "X": 12,
       "Y": 3,
       "Name": "Mushroom Stalk Base",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "7aa09e76-d817-44fe-9a84-2ebf3c586110"
     },
     {
-      "Id": "a7f1fcd6-5c86-4993-abd3-ad51aa92daf6",
       "X": 12,
       "Y": 2,
       "Name": "Mushroom Stalk 1",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a7f1fcd6-5c86-4993-abd3-ad51aa92daf6"
     },
     {
-      "Id": "94f76d4e-f05c-4e60-91d9-90263dc59df6",
       "X": 12,
       "Y": 1,
       "Name": "Mushroom Stalk 2",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "94f76d4e-f05c-4e60-91d9-90263dc59df6"
     },
     {
-      "Id": "f5446c14-8748-439d-bb47-a773335e6c26",
       "X": 12,
       "Y": 0,
       "Name": "Mushroom Stalk Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "f5446c14-8748-439d-bb47-a773335e6c26"
     },
     {
-      "Id": "70234a24-e941-4d3c-8af8-42ca11131614",
       "X": 14,
       "Y": 0,
       "Name": "Mushroom Top Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "70234a24-e941-4d3c-8af8-42ca11131614"
     },
     {
-      "Id": "f2a9bfb4-90f4-419f-b626-1ada3a2013b1",
       "X": 13,
       "Y": 0,
       "Name": "Mushroom Top Middle",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "f2a9bfb4-90f4-419f-b626-1ada3a2013b1"
     },
     {
-      "Id": "6c43813c-0ec2-4c78-8319-0ee3ea46b168",
       "X": 15,
       "Y": 0,
       "Name": "Mushroom Top Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "6c43813c-0ec2-4c78-8319-0ee3ea46b168"
     },
     {
-      "Id": "52ce04f8-49f4-47fa-8e7a-0675aaf20eb0",
       "X": 17,
       "Y": 6,
       "Name": "Trunk Base",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "52ce04f8-49f4-47fa-8e7a-0675aaf20eb0"
     },
     {
-      "Id": "9da985f3-6912-43d1-8d83-7a5f9efaaaaf",
       "X": 16,
       "Y": 5,
       "Name": "Trunk",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "9da985f3-6912-43d1-8d83-7a5f9efaaaaf"
     },
     {
-      "Id": "a78687bc-46bb-48a5-996b-f90872ea01ae",
       "X": 16,
       "Y": 6,
       "Name": "Trunk Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a78687bc-46bb-48a5-996b-f90872ea01ae"
     },
     {
-      "Id": "ec86c65e-d1ed-4efb-8573-ca5881fca75a",
       "X": 17,
       "Y": 5,
       "Name": "Trunk Middle",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "ec86c65e-d1ed-4efb-8573-ca5881fca75a"
     },
     {
-      "Id": "06f6f8c1-bea1-4bc1-85ab-251eb7dfe921",
       "X": 18,
       "Y": 6,
       "Name": "Trunk Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "06f6f8c1-bea1-4bc1-85ab-251eb7dfe921"
     },
     {
-      "Id": "50ba5ea2-e5e1-45f9-88e2-329c8996f971",
       "X": 16,
       "Y": 4,
-      "Name": "Trunk Lead",
-      "FlipHorizontal": false
+      "Name": "Trunk Leaf",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "50ba5ea2-e5e1-45f9-88e2-329c8996f971"
     },
     {
-      "Id": "c2d6f82c-d1f7-4e95-9940-fbc03d62a7fb",
       "X": 17,
       "Y": 4,
       "Name": "Trunk Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "c2d6f82c-d1f7-4e95-9940-fbc03d62a7fb"
     },
     {
-      "Id": "3cc624f4-63e7-469e-b9c4-6414f3848997",
       "X": 18,
       "Y": 5,
       "Name": "Branch Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "3cc624f4-63e7-469e-b9c4-6414f3848997"
     },
     {
-      "Id": "0f555174-e76a-429a-ad97-7fd2a2225424",
       "X": 19,
       "Y": 5,
       "Name": "Branch Middle",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "0f555174-e76a-429a-ad97-7fd2a2225424"
     },
     {
-      "Id": "7012bbd2-5409-4d61-9edc-d4c7ac5604be",
       "X": 19,
       "Y": 6,
       "Name": "Branch Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "7012bbd2-5409-4d61-9edc-d4c7ac5604be"
     },
     {
-      "Id": "8b105661-d578-4edd-8076-bef7d50fe5af",
       "X": 18,
       "Y": 4,
       "Name": "Leaf Branch Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "8b105661-d578-4edd-8076-bef7d50fe5af"
     },
     {
-      "Id": "95de5430-f10e-470d-b190-2b0f39dadbc0",
       "X": 19,
       "Y": 4,
       "Name": "Leaf Branch",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "95de5430-f10e-470d-b190-2b0f39dadbc0"
     },
     {
-      "Id": "606afa95-9d50-4cd8-a22f-f9ffcfb15772",
       "X": 16,
       "Y": 0,
       "Name": "1x1 Leaf",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "606afa95-9d50-4cd8-a22f-f9ffcfb15772"
     },
     {
-      "Id": "46ac7e6e-ef66-432b-a8ff-6ed746ab2ae7",
       "X": 16,
       "Y": 1,
       "Name": "1x3 Leaf Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "46ac7e6e-ef66-432b-a8ff-6ed746ab2ae7"
     },
     {
-      "Id": "9d515701-1682-4dfc-a41f-778d34002859",
       "X": 16,
       "Y": 2,
       "Name": "1x3 Leaf Middle",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "9d515701-1682-4dfc-a41f-778d34002859"
     },
     {
-      "Id": "f97b62ef-a049-4960-9686-c4d9abbf86bb",
       "X": 16,
       "Y": 3,
       "Name": "1x3 Leaf Bottom",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "f97b62ef-a049-4960-9686-c4d9abbf86bb"
     },
     {
-      "Id": "ff9457cd-cb0d-4ead-b010-4c1fb45463a2",
       "X": 17,
       "Y": 3,
       "Name": "3x1 Leaf Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "ff9457cd-cb0d-4ead-b010-4c1fb45463a2"
     },
     {
-      "Id": "397cd3f5-ecd2-4f48-8d76-c1d699383e17",
       "X": 18,
       "Y": 3,
       "Name": "3x1 Leaf Middle",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "397cd3f5-ecd2-4f48-8d76-c1d699383e17"
     },
     {
-      "Id": "b13dd1fe-23a3-415a-b910-8f53af19ea45",
       "X": 19,
       "Y": 3,
       "Name": "3x1 Leaf Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "b13dd1fe-23a3-415a-b910-8f53af19ea45"
     },
     {
-      "Id": "a728590b-4edf-41d3-985d-40493c253815",
       "X": 17,
       "Y": 0,
       "Name": "3x3 Leaf Top Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a728590b-4edf-41d3-985d-40493c253815"
     },
     {
-      "Id": "8037002b-fe9f-4ec0-b0d4-42e9f999206e",
       "X": 18,
       "Y": 0,
       "Name": "3x3 Leaf Top",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "8037002b-fe9f-4ec0-b0d4-42e9f999206e"
     },
     {
-      "Id": "4762e83a-922f-49d6-a6f6-7cf63740a06c",
       "X": 19,
       "Y": 0,
       "Name": "3x3 Leaf Top Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "4762e83a-922f-49d6-a6f6-7cf63740a06c"
     },
     {
-      "Id": "b23ae21d-e612-4195-ac1a-166593faeef5",
       "X": 17,
       "Y": 1,
       "Name": "3x3 Leaf Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "b23ae21d-e612-4195-ac1a-166593faeef5"
     },
     {
-      "Id": "a3b35d2b-9588-42a2-9871-dc1b27541860",
       "X": 18,
       "Y": 1,
       "Name": "3x3 Leaf Center",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a3b35d2b-9588-42a2-9871-dc1b27541860"
     },
     {
-      "Id": "a1cf9c66-f8ce-4dd7-b45f-7ad78193ae39",
       "X": 19,
       "Y": 1,
       "Name": "3x3 Leaf Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a1cf9c66-f8ce-4dd7-b45f-7ad78193ae39"
     },
     {
-      "Id": "e32fbce4-8f6c-4cc5-895c-50b847d777ee",
       "X": 17,
       "Y": 2,
       "Name": "3x3 Leaft Bottom Left",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "e32fbce4-8f6c-4cc5-895c-50b847d777ee"
     },
     {
-      "Id": "64ca320b-0ce9-466a-b1e2-7196b0906bd9",
       "X": 18,
       "Y": 2,
       "Name": "3x3 Leaf Bottom",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "64ca320b-0ce9-466a-b1e2-7196b0906bd9"
     },
     {
-      "Id": "3d66f2a4-73f0-4f84-8b91-cdfc62972a9a",
       "X": 19,
       "Y": 2,
       "Name": "3x3 Leaf Bottom Right",
-      "FlipHorizontal": false
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "3d66f2a4-73f0-4f84-8b91-cdfc62972a9a"
+    },
+    {
+      "X": 18,
+      "Y": 4,
+      "Name": "Leaf Branch Right",
+      "FlipHorizontal": true,
+      "FlipVertical": false,
+      "Id": "38778a5f-8632-41ac-980f-f8cc388868e2"
+    },
+    {
+      "X": 4,
+      "Y": 6,
+      "Name": "Plant Small Top",
+      "FlipHorizontal": true,
+      "FlipVertical": true,
+      "Id": "c4470bf8-a981-4e1e-80c6-30702b16f53f"
+    },
+    {
+      "X": 5,
+      "Y": 6,
+      "Name": "Plant Large Top",
+      "FlipHorizontal": true,
+      "FlipVertical": true,
+      "Id": "0dfb8320-c973-47a9-a812-cf4a25db53bf"
+    },
+    {
+      "X": 9,
+      "Y": 3,
+      "Name": "Rope Top",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "6c1c1e22-49d7-455d-919e-011ea686ffa7"
+    },
+    {
+      "X": 9,
+      "Y": 4,
+      "Name": "Rope Vertical",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "843814b2-3163-4bb0-a97f-f90e67e82600"
+    },
+    {
+      "X": 9,
+      "Y": 5,
+      "Name": "Rope Bottom",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "85010e7f-5f6f-4667-b952-b1e343b74a2d"
+    },
+    {
+      "X": 10,
+      "Y": 4,
+      "Name": "Rope Left",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "f1749b65-1b50-476c-b84d-4b90b6adacd8"
+    },
+    {
+      "X": 11,
+      "Y": 4,
+      "Name": "Rope Horizontal",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "32ee86cb-12b6-4dc1-8eb5-3b36c5d9b043"
+    },
+    {
+      "X": 12,
+      "Y": 4,
+      "Name": "Rope Right",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "e32e661e-6f8f-4f94-a88d-a92800fa6b9b"
+    },
+    {
+      "X": 10,
+      "Y": 3,
+      "Name": "Rope Anchor",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "6511b5e8-218c-473f-a104-dd9753b93704"
+    },
+    {
+      "X": 4,
+      "Y": 4,
+      "Name": "Small Sign Left",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "73c8693f-d1b4-4853-947c-9fede8535da7"
+    },
+    {
+      "X": 5,
+      "Y": 4,
+      "Name": "Small Sign Right",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "bb5453d3-51c7-4ba4-8f78-34883faa67ba"
+    },
+    {
+      "X": 6,
+      "Y": 4,
+      "Name": "Small Sign",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "efe7ad84-63a7-4189-ac2b-125a019fd9b3"
+    },
+    {
+      "X": 7,
+      "Y": 4,
+      "Name": "Large Sign Left",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "7883b451-db4e-4a7b-b585-b50196e66f2e"
+    },
+    {
+      "X": 8,
+      "Y": 4,
+      "Name": "Large Sign Right",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "73686956-cf4b-40bb-af09-bec8b50dde56"
+    },
+    {
+      "X": 5,
+      "Y": 5,
+      "Name": "Large Fence",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "78ab244b-42fd-409a-952d-4b16fbd17972"
+    },
+    {
+      "X": 6,
+      "Y": 5,
+      "Name": "Small Fence",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "c3d9185d-1f07-44c0-9e88-41f57cee39c3"
+    },
+    {
+      "X": 11,
+      "Y": 2,
+      "Name": "Ladder Top",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "fed3e423-c2d2-42e8-831e-54c7b8b521fc"
+    },
+    {
+      "X": 11,
+      "Y": 3,
+      "Name": "Ladder",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "4bca10de-c4a1-4140-9897-0b1b27faf12f"
+    },
+    {
+      "X": 10,
+      "Y": 5,
+      "Name": "Door Top",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "20dab8a3-0547-4bdc-9ccc-29cb43fba301"
+    },
+    {
+      "X": 10,
+      "Y": 6,
+      "Name": "Door Sign",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "30a48a88-bf85-4b8a-a6ce-cb8ff71cc68d"
+    },
+    {
+      "X": 10,
+      "Y": 7,
+      "Name": "Door Blank",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "cb9f37d7-8375-4cde-8d34-d95a7d768d5f"
+    },
+    {
+      "X": 6,
+      "Y": 7,
+      "Name": "Wood Platform",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "b3017507-56c2-4e0a-ada9-cb89b692fa43"
+    },
+    {
+      "X": 7,
+      "Y": 7,
+      "Name": "Metal Platform",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "d82dfb3b-af1f-4c1d-98e7-a940fc8d9763"
+    },
+    {
+      "X": 6,
+      "Y": 0,
+      "Name": "Brick Wall",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "397c94bc-ad0e-4525-aabf-2aef12c5f878"
+    },
+    {
+      "X": 6,
+      "Y": 1,
+      "Name": "Crate",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "6993e778-274d-47dd-9789-01ae4f299b31"
+    },
+    {
+      "X": 7,
+      "Y": 1,
+      "Name": "Key",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "def04980-7281-4f13-9bca-03ee9af02433"
+    },
+    {
+      "X": 8,
+      "Y": 1,
+      "Name": "Lock",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "d879572f-8ae0-4a15-bbed-082333b2a509"
+    },
+    {
+      "X": 9,
+      "Y": 0,
+      "Name": "Blank Yellow Block",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "d54f66e8-7a54-4161-a941-7ae957dd35ea"
+    },
+    {
+      "X": 10,
+      "Y": 0,
+      "Name": "! Yellow Block",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "41912631-f1fe-4246-917a-1f1f2c1aa12f"
+    },
+    {
+      "X": 11,
+      "Y": 0,
+      "Name": "0 Yellow Block",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "d16911d1-2495-41f8-8663-88e58d5bb350"
+    },
+    {
+      "X": 9,
+      "Y": 1,
+      "Name": "Blank Block",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "e40d7820-25cd-413b-8562-d24a116ef5f9"
+    },
+    {
+      "X": 10,
+      "Y": 1,
+      "Name": "! Block",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "699c15de-8fb9-4a1e-a541-8f6ba4110a2a"
+    },
+    {
+      "X": 11,
+      "Y": 1,
+      "Name": "0 Block",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "4bd73f17-8e6a-41a6-a8a2-a13361603dbd"
+    },
+    {
+      "X": 5,
+      "Y": 7,
+      "Name": "Snowman",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "167d890a-812f-4372-8f4c-f8a5e74914c6"
+    },
+    {
+      "X": 11,
+      "Y": 5,
+      "Name": "Flag 1",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "8c0ceb7e-b117-47b1-b9eb-558c12c9da58"
+    },
+    {
+      "X": 12,
+      "Y": 5,
+      "Name": "Flag 2",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "a612e852-fd81-4c11-8efd-d1480b412f31"
+    },
+    {
+      "X": 11,
+      "Y": 6,
+      "Name": "Flag Pole",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "89e20154-1b63-4d9a-a5ae-b389fabadbb1"
+    },
+    {
+      "X": 13,
+      "Y": 7,
+      "Name": "Cloud Left",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "856533e7-152c-4af0-aae8-0e685881216a"
+    },
+    {
+      "X": 14,
+      "Y": 7,
+      "Name": "Cloud Middle",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "14e79d46-66d8-46ef-9d64-1bf9014b890d"
+    },
+    {
+      "X": 15,
+      "Y": 7,
+      "Name": "Cloud Right",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "5ac3900c-328f-4847-a179-5e7f1bf5e987"
+    },
+    {
+      "X": 16,
+      "Y": 7,
+      "Name": "Cloud Small",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "de4baab7-34d5-449c-8c46-4c55ee7529a7"
+    },
+    {
+      "X": 8,
+      "Y": 3,
+      "Name": "Spikes",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "4a05006b-2272-4972-a64b-597d7b43d9b1"
+    },
+    {
+      "X": 7,
+      "Y": 5,
+      "Name": "Booster Down",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "72b65e2c-932d-4d99-b88d-edc35795e9ad"
+    },
+    {
+      "X": 8,
+      "Y": 5,
+      "Name": "Booster Up",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "75bb0ac4-9bba-4b8d-a64d-775742a924db"
     }
   ]
 }

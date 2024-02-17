@@ -1,14 +1,11 @@
 {
-  "ExplorerPanelWidth": 655,
+  "ExplorerPanelWidth": 500,
   "ExpandedDirectories": [
-    "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Enemies",
     "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Menus/Gameplay",
     "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Menus/MainMenu",
     "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Levels",
     "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Levels",
     "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/References",
-    "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/References",
-    "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Levels/Tiles",
-    "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/Levels/Tiles"
+    "/home/nicholas/Projects/Games/DemonCastle/PixelPlatformerExample/References"
   ]
 }

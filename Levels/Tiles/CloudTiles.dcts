@@ -1,0 +1,191 @@
+{
+  "Name": "Cloud Tiles",
+  "Id": "61fb1ca0-ca47-4fa3-b19b-16ca54c94d24",
+  "FileVersion": 1,
+  "Tiles": [
+    {
+      "Id": "0863cc54-a5f0-4585-9f6c-43b6780a779f",
+      "Name": "Cloud Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "2f757a65-7690-4425-b71b-527e91e2d73f",
+      "Animations": [
+        {
+          "Id": "21fa7210-f925-4a3a-9f51-bdad67820397",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "856533e7-152c-4af0-aae8-0e685881216a",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "2f757a65-7690-4425-b71b-527e91e2d73f",
+          "Name": "Default",
+          "Animation": "21fa7210-f925-4a3a-9f51-bdad67820397",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "f9a3f51f-d344-459a-8874-f51a2b681721",
+      "Name": "Cloud Middle",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "a8217b57-e1cd-46e7-9830-bc70539ae1b6",
+      "Animations": [
+        {
+          "Id": "5b580315-95dd-4e81-a7ed-94e846ff6c93",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "14e79d46-66d8-46ef-9d64-1bf9014b890d",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "a8217b57-e1cd-46e7-9830-bc70539ae1b6",
+          "Name": "Default",
+          "Animation": "5b580315-95dd-4e81-a7ed-94e846ff6c93",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "7a5e5f61-9aa1-40e6-8861-245eaca913c6",
+      "Name": "Cloud Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "6ff959da-3bc4-4c0c-8a39-75c2c029315a",
+      "Animations": [
+        {
+          "Id": "5687976a-642a-45dd-99d7-a98db995ffc9",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "5ac3900c-328f-4847-a179-5e7f1bf5e987",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "6ff959da-3bc4-4c0c-8a39-75c2c029315a",
+          "Name": "Default",
+          "Animation": "5687976a-642a-45dd-99d7-a98db995ffc9",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e91709d1-1242-46c7-8355-464250d0a5f7",
+      "Name": "Cloud Small",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "dce6ba54-c862-4cf8-9936-5d7bb4d189cd",
+      "Animations": [
+        {
+          "Id": "0b58a1a4-7832-42e6-9b75-360c3d102eb3",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "de4baab7-34d5-449c-8c46-4c55ee7529a7",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "dce6ba54-c862-4cf8-9936-5d7bb4d189cd",
+          "Name": "Default",
+          "Animation": "0b58a1a4-7832-42e6-9b75-360c3d102eb3",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    }
+  ]
+}

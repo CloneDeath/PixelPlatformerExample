@@ -27,7 +27,13 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": {
+            "X": 2,
+            "Y": 1,
+            "Width": 20,
+            "Height": 23
+          }
         }
       ]
     },
@@ -49,7 +55,13 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": {
+            "X": 2,
+            "Y": 0,
+            "Width": 20,
+            "Height": 23
+          }
         },
         {
           "Duration": 0.5,
@@ -65,7 +77,13 @@
               "Y": 0
             }
           },
-          "Slots": []
+          "Slots": [],
+          "HitBox": {
+            "X": 2,
+            "Y": 1,
+            "Width": 20,
+            "Height": 23
+          }
         }
       ]
     }

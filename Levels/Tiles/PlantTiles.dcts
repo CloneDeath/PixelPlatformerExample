@@ -646,6 +646,1478 @@
         }
       ],
       "Variables": []
+    },
+    {
+      "Id": "7654cd0c-930e-4559-9403-78bd76c3a0af",
+      "Name": "Trunk Base",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "d64210eb-d7a7-40f8-a533-8b17cf341295",
+      "Animations": [
+        {
+          "Id": "f7dbb331-3c7b-42c4-8f54-d88b39192398",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "52ce04f8-49f4-47fa-8e7a-0675aaf20eb0",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "d64210eb-d7a7-40f8-a533-8b17cf341295",
+          "Name": "Default",
+          "Animation": "f7dbb331-3c7b-42c4-8f54-d88b39192398",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "8bca67db-f0ef-4b1b-922e-7b0948ffde54",
+      "Name": "Trunk",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "af9d5334-25b7-48db-916e-484f50bb0ae0",
+      "Animations": [
+        {
+          "Id": "d56ebd4c-d639-4637-bd65-340ef04a4d67",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "9da985f3-6912-43d1-8d83-7a5f9efaaaaf",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "af9d5334-25b7-48db-916e-484f50bb0ae0",
+          "Name": "Default",
+          "Animation": "d56ebd4c-d639-4637-bd65-340ef04a4d67",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "4ed493fb-b239-4fab-9907-fd3b0cb5f6c6",
+      "Name": "Trunk Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "6f292c3f-7167-4c34-b51e-df42b6cf3ebb",
+      "Animations": [
+        {
+          "Id": "99112901-3712-4cea-b327-819ba6424378",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "a78687bc-46bb-48a5-996b-f90872ea01ae",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "6f292c3f-7167-4c34-b51e-df42b6cf3ebb",
+          "Name": "Default",
+          "Animation": "99112901-3712-4cea-b327-819ba6424378",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "8deb5120-bc87-4b8b-b7b6-f4e7d1e92967",
+      "Name": "Trunk Middle",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "72ef93f8-16e3-4e0a-bb5f-5f6a62556e0b",
+      "Animations": [
+        {
+          "Id": "b37340a2-74ab-4b38-ad94-0b487b48a12e",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "ec86c65e-d1ed-4efb-8573-ca5881fca75a",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "72ef93f8-16e3-4e0a-bb5f-5f6a62556e0b",
+          "Name": "Default",
+          "Animation": "b37340a2-74ab-4b38-ad94-0b487b48a12e",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "ab765291-a6b6-4db8-aa81-a7120f3d3460",
+      "Name": "Trunk Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8fe3b661-79bc-4383-9c5c-3a1b972c099a",
+      "Animations": [
+        {
+          "Id": "1b2d3765-c601-4ff6-9c77-eb852bd85b24",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "06f6f8c1-bea1-4bc1-85ab-251eb7dfe921",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8fe3b661-79bc-4383-9c5c-3a1b972c099a",
+          "Name": "Default",
+          "Animation": "1b2d3765-c601-4ff6-9c77-eb852bd85b24",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "0f69a9b8-3a61-4dc7-9802-d20eae325af7",
+      "Name": "Trunk Leaf",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "ee3f10c4-41b3-4586-ab8c-d7f8b15c8156",
+      "Animations": [
+        {
+          "Id": "593eebbf-8f47-4261-a8a5-fcef2f0070c9",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "50ba5ea2-e5e1-45f9-88e2-329c8996f971",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "ee3f10c4-41b3-4586-ab8c-d7f8b15c8156",
+          "Name": "Default",
+          "Animation": "593eebbf-8f47-4261-a8a5-fcef2f0070c9",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "018ff725-3de2-4b9f-a066-d9123c80298b",
+      "Name": "Trunk Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "e32d1df7-43dd-466b-989f-6da36375b332",
+      "Animations": [
+        {
+          "Id": "003a0aa2-4b64-44f4-9b94-e8d196539370",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "c2d6f82c-d1f7-4e95-9940-fbc03d62a7fb",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "e32d1df7-43dd-466b-989f-6da36375b332",
+          "Name": "Default",
+          "Animation": "003a0aa2-4b64-44f4-9b94-e8d196539370",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "4ee7d5e3-3fbd-43e1-a2f1-a04b4164715b",
+      "Name": "Branch Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "315ccce1-7b57-4bad-a18c-87172e803f26",
+      "Animations": [
+        {
+          "Id": "d5eca7fa-8bc3-4f52-b797-b4aad9021840",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "3cc624f4-63e7-469e-b9c4-6414f3848997",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "315ccce1-7b57-4bad-a18c-87172e803f26",
+          "Name": "Default",
+          "Animation": "d5eca7fa-8bc3-4f52-b797-b4aad9021840",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "7986473c-ebb5-4a1c-a528-87941303da15",
+      "Name": "Branch Middle",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "4bf38f82-98ff-4dbd-b84c-ef99453b46b2",
+      "Animations": [
+        {
+          "Id": "52fed5e8-d82d-4519-88ec-e8d7e56a3665",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "0f555174-e76a-429a-ad97-7fd2a2225424",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "4bf38f82-98ff-4dbd-b84c-ef99453b46b2",
+          "Name": "Default",
+          "Animation": "52fed5e8-d82d-4519-88ec-e8d7e56a3665",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "0e779083-325f-4df8-9a3a-567b19666968",
+      "Name": "Branch Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "d9af4e91-4e76-4326-9a86-db0eb4168cc8",
+      "Animations": [
+        {
+          "Id": "0ff2919d-23df-41ee-96cb-7e4f8e867c02",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "7012bbd2-5409-4d61-9edc-d4c7ac5604be",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "d9af4e91-4e76-4326-9a86-db0eb4168cc8",
+          "Name": "Default",
+          "Animation": "0ff2919d-23df-41ee-96cb-7e4f8e867c02",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "5117250c-400d-415c-8e9f-5919b98c9ed4",
+      "Name": "Leaf Branch Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "51051e66-b522-4928-9c3a-f5cfc2ad4926",
+      "Animations": [
+        {
+          "Id": "457735e5-10ab-44d1-94ac-e71b18003ef0",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "8b105661-d578-4edd-8076-bef7d50fe5af",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "51051e66-b522-4928-9c3a-f5cfc2ad4926",
+          "Name": "Default",
+          "Animation": "457735e5-10ab-44d1-94ac-e71b18003ef0",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "eebcde30-2283-43b0-a29e-3e946e39b5da",
+      "Name": "Leaf Branch",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "932d7924-6664-4363-9365-83aced8b317c",
+      "Animations": [
+        {
+          "Id": "725ea9f3-2c9e-4827-8732-80767c85ca04",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "95de5430-f10e-470d-b190-2b0f39dadbc0",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "932d7924-6664-4363-9365-83aced8b317c",
+          "Name": "Default",
+          "Animation": "725ea9f3-2c9e-4827-8732-80767c85ca04",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "84ed420c-bf48-4bbc-803f-e2b394f2b813",
+      "Name": "1x1 Leaf",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "58ffea3a-aca6-4c1c-a3de-4b9c78ed6155",
+      "Animations": [
+        {
+          "Id": "af227ce7-4a20-41d9-9ac7-87bbcd0981c5",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "606afa95-9d50-4cd8-a22f-f9ffcfb15772",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "58ffea3a-aca6-4c1c-a3de-4b9c78ed6155",
+          "Name": "Default",
+          "Animation": "af227ce7-4a20-41d9-9ac7-87bbcd0981c5",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e03821c7-e5a0-4919-bab3-c973de773825",
+      "Name": "1x3 Leaf Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "737f444c-fd2e-4219-b8b5-bdcaff862de9",
+      "Animations": [
+        {
+          "Id": "af789f18-da87-4c80-91cd-509ed6670c25",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "46ac7e6e-ef66-432b-a8ff-6ed746ab2ae7",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "737f444c-fd2e-4219-b8b5-bdcaff862de9",
+          "Name": "Default",
+          "Animation": "af789f18-da87-4c80-91cd-509ed6670c25",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "bbabd6d4-ec19-4c16-a0b0-a7b0354a4f78",
+      "Name": "1x3 Leaf Middle",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "b62c850c-8ed1-4fc3-b04e-f9f318938ac6",
+      "Animations": [
+        {
+          "Id": "e3ba6432-5aca-459d-a4da-169a72312e1e",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "9d515701-1682-4dfc-a41f-778d34002859",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "b62c850c-8ed1-4fc3-b04e-f9f318938ac6",
+          "Name": "Default",
+          "Animation": "e3ba6432-5aca-459d-a4da-169a72312e1e",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "02371986-a569-41dd-b9b5-0e125fc0f305",
+      "Name": "1x3 Leaf Bottom",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "1b0f637d-1cde-4bdd-8bfc-b18b96d3df14",
+      "Animations": [
+        {
+          "Id": "5105226d-ce17-428c-897c-4dd54d549d53",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "f97b62ef-a049-4960-9686-c4d9abbf86bb",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "1b0f637d-1cde-4bdd-8bfc-b18b96d3df14",
+          "Name": "Default",
+          "Animation": "5105226d-ce17-428c-897c-4dd54d549d53",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "c57e3376-85d0-4ba2-9683-6efff33c6274",
+      "Name": "3x1 Leaf Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "8b52c5a0-a2f7-405d-aee4-ff9abc8a88fa",
+      "Animations": [
+        {
+          "Id": "a390cde4-13e6-41ed-ba05-6befd7fb6c78",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "ff9457cd-cb0d-4ead-b010-4c1fb45463a2",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "8b52c5a0-a2f7-405d-aee4-ff9abc8a88fa",
+          "Name": "Default",
+          "Animation": "a390cde4-13e6-41ed-ba05-6befd7fb6c78",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "226dd6b2-ec88-479d-abac-09dc6fc9ddc1",
+      "Name": "3x1 Leaf Middle",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "30b48955-b0fb-4ed5-8cad-5046f84d9107",
+      "Animations": [
+        {
+          "Id": "eef7c9bc-8c6a-406c-8a81-500635bcdcb6",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "397cd3f5-ecd2-4f48-8d76-c1d699383e17",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "30b48955-b0fb-4ed5-8cad-5046f84d9107",
+          "Name": "Default",
+          "Animation": "eef7c9bc-8c6a-406c-8a81-500635bcdcb6",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "e71aada2-ee27-4275-bc9d-0f663f07c32f",
+      "Name": "3x1 Leaf Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "7f066c31-bcec-4253-9cf8-a86f8125a0ac",
+      "Animations": [
+        {
+          "Id": "b544385e-6025-43c3-8d32-0529dfeca154",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "b13dd1fe-23a3-415a-b910-8f53af19ea45",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "7f066c31-bcec-4253-9cf8-a86f8125a0ac",
+          "Name": "Default",
+          "Animation": "b544385e-6025-43c3-8d32-0529dfeca154",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "508d9317-1245-47f2-ae3e-c3334bc0d5ef",
+      "Name": "3x3 Leaf Top Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "7c021342-7b8d-4149-966a-48b13065febf",
+      "Animations": [
+        {
+          "Id": "df24380c-1392-454a-abbf-f5fdff0fa60e",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "a728590b-4edf-41d3-985d-40493c253815",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "7c021342-7b8d-4149-966a-48b13065febf",
+          "Name": "Default",
+          "Animation": "df24380c-1392-454a-abbf-f5fdff0fa60e",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "a18ec5d5-ce11-460f-9de3-31fd76f2a16b",
+      "Name": "3x3 Leaf Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "abc7ba0c-a6b4-4902-ac8b-e3787da8002b",
+      "Animations": [
+        {
+          "Id": "5427435c-26a3-45f3-b587-636c70f75efa",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "8037002b-fe9f-4ec0-b0d4-42e9f999206e",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "abc7ba0c-a6b4-4902-ac8b-e3787da8002b",
+          "Name": "Default",
+          "Animation": "5427435c-26a3-45f3-b587-636c70f75efa",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "d70b6a94-9db0-464b-93f3-5353013e6774",
+      "Name": "3x3 Leaf Top Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "d94f8d41-433d-4f58-8cae-0dec026ba8ed",
+      "Animations": [
+        {
+          "Id": "54087602-ca9e-4605-aa13-c53d6dc0375f",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "4762e83a-922f-49d6-a6f6-7cf63740a06c",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "d94f8d41-433d-4f58-8cae-0dec026ba8ed",
+          "Name": "Default",
+          "Animation": "54087602-ca9e-4605-aa13-c53d6dc0375f",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "f85333e6-84a4-4700-848d-6679e6d3d0f6",
+      "Name": "3x3 Leaf Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "094aaeb5-ee06-45e5-af99-bcb1bb64ec36",
+      "Animations": [
+        {
+          "Id": "f684ef0a-ed3f-4284-a9dc-68875a2856fb",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "b23ae21d-e612-4195-ac1a-166593faeef5",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "094aaeb5-ee06-45e5-af99-bcb1bb64ec36",
+          "Name": "Default",
+          "Animation": "f684ef0a-ed3f-4284-a9dc-68875a2856fb",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "6b8523b1-09c1-44c3-87b3-9dfbab74a7d9",
+      "Name": "3x3 Leaf Center",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "fe2ed7dc-fa4d-4216-a0c4-c31929ac291a",
+      "Animations": [
+        {
+          "Id": "76ce68de-798f-4b11-826f-ec483176e55e",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "a3b35d2b-9588-42a2-9871-dc1b27541860",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "fe2ed7dc-fa4d-4216-a0c4-c31929ac291a",
+          "Name": "Default",
+          "Animation": "76ce68de-798f-4b11-826f-ec483176e55e",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "5cba50bd-3b59-4419-b8ad-852c26f8545d",
+      "Name": "3x3 Leaf Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "45df4714-56e8-4655-9061-3c0f211d1269",
+      "Animations": [
+        {
+          "Id": "a8f60173-6fd2-4186-9c39-432898cd248b",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "a1cf9c66-f8ce-4dd7-b45f-7ad78193ae39",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "45df4714-56e8-4655-9061-3c0f211d1269",
+          "Name": "Default",
+          "Animation": "a8f60173-6fd2-4186-9c39-432898cd248b",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "8e8eb3de-8341-4f7f-8bba-57e05ae1073a",
+      "Name": "3x3 Leaft Bottom Left",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "20ff9eb8-5abc-4944-aa4b-c9815cf29179",
+      "Animations": [
+        {
+          "Id": "7b275e2a-4b8b-4c12-9ffc-eaad4c4c27ee",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "e32fbce4-8f6c-4cc5-895c-50b847d777ee",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "20ff9eb8-5abc-4944-aa4b-c9815cf29179",
+          "Name": "Default",
+          "Animation": "7b275e2a-4b8b-4c12-9ffc-eaad4c4c27ee",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "4283ab74-2f21-4a21-a056-12da213497a2",
+      "Name": "3x3 Leaf Bottom",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "835dcf6f-9a34-49d9-ae3d-b3e742d522b2",
+      "Animations": [
+        {
+          "Id": "f74db0a0-fc3e-425c-957e-d7f198879225",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "64ca320b-0ce9-466a-b1e2-7196b0906bd9",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "835dcf6f-9a34-49d9-ae3d-b3e742d522b2",
+          "Name": "Default",
+          "Animation": "f74db0a0-fc3e-425c-957e-d7f198879225",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "a6acc5e7-b300-4233-8dad-0c36d5ef6ec9",
+      "Name": "3x3 Leaf Bottom Right",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "a85d983d-2842-4ab9-92e3-302db1a1be44",
+      "Animations": [
+        {
+          "Id": "b75ed30a-54fb-425a-b28b-f8675da8e678",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "3d66f2a4-73f0-4f84-8b91-cdfc62972a9a",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "a85d983d-2842-4ab9-92e3-302db1a1be44",
+          "Name": "Default",
+          "Animation": "b75ed30a-54fb-425a-b28b-f8675da8e678",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "24c152b2-4cb4-4fb8-9b4d-66927861d265",
+      "Name": "Tile",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "7c2ce304-d66d-4fde-8c07-72176b5bfac5",
+      "Animations": [
+        {
+          "Id": "b0d3b4ac-5adb-4d38-8675-2b81ebddd204",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "38778a5f-8632-41ac-980f-f8cc388868e2",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "7c2ce304-d66d-4fde-8c07-72176b5bfac5",
+          "Name": "Default",
+          "Animation": "b0d3b4ac-5adb-4d38-8675-2b81ebddd204",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "6299a124-2492-4654-9b81-91b880061a81",
+      "Name": "Plant Small Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "fed561a9-7697-4e38-afe0-8e3330681adb",
+      "Animations": [
+        {
+          "Id": "254f81e7-e0f6-46c0-9b9f-3d04fb0292f2",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "c4470bf8-a981-4e1e-80c6-30702b16f53f",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "fed561a9-7697-4e38-afe0-8e3330681adb",
+          "Name": "Default",
+          "Animation": "254f81e7-e0f6-46c0-9b9f-3d04fb0292f2",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "ddb073bb-cb24-4057-9228-0f4e8e79ba2a",
+      "Name": "Plant Large Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "c5422108-78ec-4fad-81b5-5ea428a58aaa",
+      "Animations": [
+        {
+          "Id": "33d99466-bebc-45ee-b5d0-3357377f5f31",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "0dfb8320-c973-47a9-a812-cf4a25db53bf",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "c5422108-78ec-4fad-81b5-5ea428a58aaa",
+          "Name": "Default",
+          "Animation": "33d99466-bebc-45ee-b5d0-3357377f5f31",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
+    },
+    {
+      "Id": "c550ad1e-c474-46f6-b775-cee217c9af59",
+      "Name": "Rope Top",
+      "Collision": [],
+      "Size": {
+        "Width": 1,
+        "Height": 1
+      },
+      "InitialState": "0776d1f5-7e62-484c-a9ac-5a54562a3b46",
+      "Animations": [
+        {
+          "Id": "a5112bbd-b3dd-49e1-bd48-68008be4def4",
+          "Name": "Default",
+          "Frames": [
+            {
+              "Duration": 1.0,
+              "Source": "TileSprites.dcsg",
+              "SpriteId": "167d890a-812f-4372-8f4c-f8a5e74914c6",
+              "Origin": {
+                "Anchor": {
+                  "X": 0,
+                  "Y": 0
+                },
+                "Offset": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              "Slots": []
+            }
+          ]
+        }
+      ],
+      "States": [
+        {
+          "Id": "0776d1f5-7e62-484c-a9ac-5a54562a3b46",
+          "Name": "Default",
+          "Animation": "a5112bbd-b3dd-49e1-bd48-68008be4def4",
+          "Transitions": [],
+          "OnEnter": [],
+          "OnUpdate": [],
+          "OnExit": []
+        }
+      ],
+      "Variables": []
     }
   ]
 }
