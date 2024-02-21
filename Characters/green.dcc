@@ -73,11 +73,11 @@
   "WalkAnimation": "50d22187-d64c-4687-bcf8-6f5e23e84085",
   "IdleAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
   "JumpAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
-  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
-  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000"
+  "CrouchAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
+  "StairsUpAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
+  "StairsDownAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
+  "StandAttackAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
+  "JumpAttackAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
+  "StairsUpAttackAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343",
+  "StairsDownAttackAnimation": "fc498b9d-4e4c-436e-a9a4-eff5fcf94343"
 }

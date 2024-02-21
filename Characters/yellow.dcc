@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Name": "Yellow Youngster",
   "Enabled": true,
   "WalkSpeed": 3.0,
@@ -70,14 +71,13 @@
     }
   ],
   "WalkAnimation": "e88cd0c5-ab84-4378-8a0e-8a03801a1741",
-  "IdleAnimation": "00000000-0000-0000-0000-000000000000",
-  "JumpAnimation": "00000000-0000-0000-0000-000000000000",
-  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
-  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "FileVersion": 1
+  "IdleAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "JumpAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "CrouchAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "StairsUpAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "StairsDownAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "StandAttackAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "JumpAttackAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "StairsUpAttackAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d",
+  "StairsDownAttackAnimation": "a7e493cf-dcf8-467e-a8af-f9466266db3d"
 }

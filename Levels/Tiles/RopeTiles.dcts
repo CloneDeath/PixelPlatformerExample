@@ -7,6 +7,16 @@
       "Id": "61e8d877-ef28-4b53-bc61-7b6d94e50770",
       "Name": "Rope Top",
       "Collision": [],
+      "Stairs": {
+        "Start": {
+          "X": 0.5,
+          "Y": 1.0
+        },
+        "End": {
+          "X": 0.5,
+          "Y": 0.9000001
+        }
+      },
       "Size": {
         "Width": 1,
         "Height": 1
@@ -53,6 +63,16 @@
       "Id": "61bbf637-473c-4cb2-9331-5c582c2fb54d",
       "Name": "Rope Vertical",
       "Collision": [],
+      "Stairs": {
+        "Start": {
+          "X": 0.5,
+          "Y": 0.0
+        },
+        "End": {
+          "X": 0.5,
+          "Y": 1.0
+        }
+      },
       "Size": {
         "Width": 1,
         "Height": 1
@@ -99,6 +119,16 @@
       "Id": "ada5beb0-fc55-4bc7-879e-4035112ec910",
       "Name": "Rope Bottom",
       "Collision": [],
+      "Stairs": {
+        "Start": {
+          "X": 0.5,
+          "Y": 0.0
+        },
+        "End": {
+          "X": 0.5,
+          "Y": 1.0
+        }
+      },
       "Size": {
         "Width": 1,
         "Height": 1

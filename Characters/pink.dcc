@@ -1,4 +1,5 @@
 {
+  "FileVersion": 1,
   "Name": "Pink Person",
   "Enabled": true,
   "WalkSpeed": 12.0,
@@ -10,7 +11,7 @@
   "Animations": [
     {
       "Id": "5ea1af36-f7b5-4570-b5d6-180c813aef7b",
-      "Name": "walk",
+      "Name": "Walk",
       "Frames": [
         {
           "Duration": 0.25,
@@ -26,10 +27,7 @@
               "Y": 0
             }
           },
-          "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "Slots": []
         },
         {
           "Duration": 0.25,
@@ -45,16 +43,13 @@
               "Y": 0
             }
           },
-          "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "Slots": []
         }
       ]
     },
     {
       "Id": "66d7628d-c10b-46da-9549-d99ca1621c79",
-      "Name": "idle",
+      "Name": "Idle",
       "Frames": [
         {
           "Duration": 1.0,
@@ -70,10 +65,7 @@
               "Y": 0
             }
           },
-          "Slots": [],
-          "Audio": null,
-          "HitBox": null,
-          "HurtBox": null
+          "Slots": []
         }
       ]
     }
@@ -81,12 +73,11 @@
   "WalkAnimation": "5ea1af36-f7b5-4570-b5d6-180c813aef7b",
   "IdleAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
   "JumpAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
-  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
-  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "FileVersion": 1
+  "CrouchAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
+  "StairsUpAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
+  "StairsDownAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
+  "StandAttackAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
+  "JumpAttackAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
+  "StairsUpAttackAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79",
+  "StairsDownAttackAnimation": "66d7628d-c10b-46da-9549-d99ca1621c79"
 }

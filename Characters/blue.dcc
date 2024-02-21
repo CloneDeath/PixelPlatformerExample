@@ -91,11 +91,11 @@
   "WalkAnimation": "e59a64f8-baa1-4d94-a509-b204b080e688",
   "IdleAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
   "JumpAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
-  "CrouchAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAnimation": "00000000-0000-0000-0000-000000000000",
-  "StandAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "JumpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsUpAttackAnimation": "00000000-0000-0000-0000-000000000000",
-  "StairsDownAttackAnimation": "00000000-0000-0000-0000-000000000000"
+  "CrouchAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "StairsUpAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "StairsDownAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "StandAttackAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "JumpAttackAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "StairsUpAttackAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68",
+  "StairsDownAttackAnimation": "20b1795b-f589-4d89-b34b-057ec33f2c68"
 }
