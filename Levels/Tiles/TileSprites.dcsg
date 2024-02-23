@@ -999,6 +999,22 @@
       "FlipHorizontal": false,
       "FlipVertical": false,
       "Id": "75bb0ac4-9bba-4b8d-a64d-775742a924db"
+    },
+    {
+      "X": 11,
+      "Y": 7,
+      "Name": "Coin 1",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "cc90632b-e71f-45d1-a8d2-7d8b7943c4a5"
+    },
+    {
+      "X": 12,
+      "Y": 7,
+      "Name": "Coin 2",
+      "FlipHorizontal": false,
+      "FlipVertical": false,
+      "Id": "0bb50355-631e-4f4d-b3ce-71448af9bc1b"
     }
   ]
 }

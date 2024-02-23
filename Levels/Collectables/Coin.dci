@@ -1,0 +1,75 @@
+{
+  "Id": "2fb23f20-44a2-4e77-b6e3-7fbd2ad16c23",
+  "Name": "Coin",
+  "Size": {
+    "Width": 16,
+    "Height": 16
+  },
+  "InitialState": "c191769c-1b59-4ad2-b6e5-51d0f3b29f64",
+  "FileVersion": 1,
+  "InventoryAnimation": "00000000-0000-0000-0000-000000000000",
+  "OnPickup": [],
+  "Animations": [
+    {
+      "Id": "863af4b3-34cf-495e-aee2-9bf44d905d33",
+      "Name": "Default",
+      "Frames": [
+        {
+          "Duration": 1.0,
+          "Source": "../Tiles/TileSprites.dcsg",
+          "SpriteId": "cc90632b-e71f-45d1-a8d2-7d8b7943c4a5",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        },
+        {
+          "Duration": 1.0,
+          "Source": "../Tiles/TileSprites.dcsg",
+          "SpriteId": "0bb50355-631e-4f4d-b3ce-71448af9bc1b",
+          "Origin": {
+            "Anchor": {
+              "X": 0,
+              "Y": 0
+            },
+            "Offset": {
+              "X": 0,
+              "Y": 0
+            }
+          },
+          "Slots": []
+        }
+      ]
+    }
+  ],
+  "States": [
+    {
+      "Id": "c191769c-1b59-4ad2-b6e5-51d0f3b29f64",
+      "Name": "Default",
+      "Animation": "863af4b3-34cf-495e-aee2-9bf44d905d33",
+      "Transitions": [
+        {
+          "Id": "34cb9c7a-7d57-4ff4-9918-84e320670a27",
+          "Name": "",
+          "TargetState": "00000000-0000-0000-0000-000000000000",
+          "When": {
+            "Self": "Killed"
+          }
+        }
+      ],
+      "OnEnter": [],
+      "OnUpdate": [
+        {}
+      ],
+      "OnExit": []
+    }
+  ],
+  "Variables": []
+}
